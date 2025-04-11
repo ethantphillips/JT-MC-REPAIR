@@ -1,0 +1,16 @@
+filename = 'balm-fabric-1.21.5-21.5.9.jar'
+name = 'Balm'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21.5' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '1d3897c0bd83822be4ed6efed4778b9bdd88b8e8'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6371404
+project-id = 531761

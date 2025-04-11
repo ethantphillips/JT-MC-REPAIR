@@ -1,0 +1,16 @@
+filename = 'Clumps-fabric-1.21.5-23.0.0.1.jar'
+name = 'Clumps'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21.5' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'f2087cb6f9b2a25f252d6e59e7ab9d65801bd16e'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6368575
+project-id = 256717

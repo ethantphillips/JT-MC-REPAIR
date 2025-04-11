@@ -1,0 +1,283 @@
+     0.002 D | Testing "D:/JT Minecraft Files, Mods, and Dependencies/Prism Launcher/qtlogging.ini" ...
+     0.003 D | Loading logging rules from: "D:/JT Minecraft Files, Mods, and Dependencies/Prism Launcher/qtlogging.ini"
+     0.003 D | Setting log rules:
+     0.003 D |      "*.debug=true"
+     0.003 D |      "launcher.auth.credentials.debug=false"
+     0.003 D |      "launcher.task=false"
+     0.003 D |      "launcher.task.net=true"
+     0.003 D |      "launcher.task.net.download.debug=false"
+     0.003 D |      "launcher.task.net.metacache=false"
+     0.003 D |      "launcher.task.net.metacache.http=true"
+     0.003 D |      "launcher.task.net.upload=true"
+     0.003 D |      "qt.*.debug=false"
+     0.004 D | <> Log initialized.
+     0.004 D | <> No migration needed from "PolyMC"
+     0.004 D | <> No migration needed from "MultiMC"
+     0.004 D | Prism Launcher, � 2022-2025 Prism Launcher Contributors, � 2021-2022 PolyMC Contributors, � 2012-2021 MultiMC Contributors
+     0.004 D | Version                    :  "9.4"
+     0.004 D | Platform                   :  "official"
+     0.004 D | Git commit                 :  ""
+     0.004 D | Git refspec                :  "refs/heads/stable"
+     0.004 D | Compiled for               :  "Windows 6.2.9200 AMD64"
+     0.004 D | Compiled by                :  "Clang - 20.1.1"
+     0.004 D | Build Artifact             :  "Windows-MinGW-w64-Qt"
+     0.005 D | Updates Enabled           :  Yes
+     0.005 D | Work dir before adjustment :  "D:/JT Minecraft Files, Mods, and Dependencies/Prism Launcher"
+     0.005 D | Work dir after adjustment  :  "D:/JT Minecraft Files, Mods, and Dependencies/Prism Launcher"
+     0.005 D | Adjusted by                :  "Portable data path"
+     0.005 D | Binary path                :  "D:/JT Minecraft Files, Mods, and Dependencies/Prism Launcher"
+     0.005 D | Application root path      :  "D:/JT Minecraft Files, Mods, and Dependencies/Prism Launcher"
+     0.005 D | <> Paths set.
+     0.017 D | Detected default console font: "Courier New" , substitutions: ""
+     0.069 D | <> Settings loaded.
+     0.070 D | Detecting proxy settings...
+     0.070 D | Using no proxy is an option!
+     0.070 D | <> Network done.
+     0.074 D | Your language is "en_US"
+     0.074 D | <> Translations loaded.
+     0.076 D | Started watching  "D:/JT Minecraft Files, Mods, and Dependencies/Prism Launcher/icons"
+     0.076 D | Sorting icon list...
+     0.077 D | <> Instance icons initialized.
+     0.078 D | [Theme] Determining System Widget Theme...
+     0.078 D | [Theme] System theme seems to be: "windows11"
+     0.078 D | [Theme] <> Initializing Icon Themes
+     0.078 D | [Theme] Loaded Built-In Icon Theme "pe_colored"
+     0.078 D | [Theme] Loaded Built-In Icon Theme "pe_light"
+     0.078 D | [Theme] Loaded Built-In Icon Theme "pe_dark"
+     0.078 D | [Theme] Loaded Built-In Icon Theme "pe_blue"
+     0.078 D | [Theme] Loaded Built-In Icon Theme "breeze_light"
+     0.078 D | [Theme] Loaded Built-In Icon Theme "breeze_dark"
+     0.078 D | [Theme] Loaded Built-In Icon Theme "OSX"
+     0.078 D | [Theme] Loaded Built-In Icon Theme "iOS"
+     0.079 D | [Theme] Loaded Built-In Icon Theme "flat"
+     0.079 D | [Theme] Loaded Built-In Icon Theme "flat_white"
+     0.079 D | [Theme] Loaded Built-In Icon Theme "multimc"
+     0.079 D | [Theme] Icon Theme Folder Path:  "D:/JT Minecraft Files, Mods, and Dependencies/Prism Launcher/iconthemes"
+     0.079 D | [Theme] <> Icon themes initialized.
+     0.079 D | [Theme] <> Initializing Widget Themes
+     0.079 D | [Theme] Loading Built-in Theme: "system"
+     0.079 D | [Theme] Loading Built-in Theme: "dark"
+     0.079 D | [Theme] Loading Built-in Theme: "bright"
+     0.079 D | [Theme] <> Initializing System Widget Themes
+     0.079 D | [Theme] Loading System Theme: "windows11"
+     0.079 D | [Theme] Loading System Theme: "windowsvista"
+     0.079 D | [Theme] Loading System Theme: "Windows"
+     0.080 D | [Theme] Loading System Theme: "Fusion"
+     0.080 D | [Theme] Theme Folder Path:  "D:/JT Minecraft Files, Mods, and Dependencies/Prism Launcher/themes"
+     0.080 D | [Theme] <> Widget themes initialized.
+     0.080 D | [Theme] CatPacks Folder Path: "D:/JT Minecraft Files, Mods, and Dependencies/Prism Launcher/catpacks"
+     0.098 D | Instance path              :  "instances"
+     0.099 D | Loading Instances...
+     0.099 D | Discovering instances in "D:/JT Minecraft Files, Mods, and Dependencies/Prism Launcher/instances"
+     0.100 D | Found instance ID "1.21.5"
+     0.100 D | Found instance ID "Optimized Performance - MC 1.21.5 - 1.3"
+     0.100 D | Will load group list now.
+     0.100 D | Group list loaded.
+     0.102 D | Loaded instance  "1.21.5"  from  "D:/JT Minecraft Files, Mods, and Dependencies/Prism Launcher/instances/1.21.5"
+     0.103 D | Loaded instance  "Optimized Performance - MC 1.21.5 - 1.3"  from  "D:/JT Minecraft Files, Mods, and Dependencies/Prism Launcher/instances/Optimized Performance - MC 1.21.5 - 1.3"
+     0.103 D | <> Instances loaded.
+     0.103 D | Loading accounts...
+     0.104 C | "Failed to read the account list file (accounts.json)."
+     0.104 D | <> Accounts loaded.
+     0.106 D | <> Cache initialized.
+     0.106 D | Downloading Translations Index...
+     0.108 W | [launcher.task.net]: [HttpMetaCache] Removing cache entry because of old age!
+     0.116 D | [Theme] <> Icon theme set.
+     0.116 D | [Theme] applying theme "Dark"
+     0.117 D | [Theme] <> Application theme set.
+     0.338 D | Dir changed: "D:/JT Minecraft Files, Mods, and Dependencies/Prism Launcher/translations"
+     0.685 D | Dir changed: "D:/JT Minecraft Files, Mods, and Dependencies/Prism Launcher/translations"
+     0.703 D | Dir changed: "D:/JT Minecraft Files, Mods, and Dependencies/Prism Launcher/translations"
+     0.705 D | Got translations index!
+     2.655 D | AuthFlow: "Logging in with Microsoft account."
+     2.657 D | AuthFlow: "Logging in with Microsoft account(device code)."
+     2.716 D | [launcher.task.net.upload]: "{654c1d2f-c688-4255-8f09-e74a1ca4462e}" Running  "https://login.microsoftonline.com/consumers/oauth2/v2.0/devicecode"
+     3.345 D | [launcher.task.net.upload]: "{654c1d2f-c688-4255-8f09-e74a1ca4462e}" Request succeeded: "https://login.microsoftonline.com/consumers/oauth2/v2.0/devicecode"
+     5.818 D | Opening URL "https://login.microsoftonline.com/consumers/oauth2/v2.0/authorize?client_id=c36a9fb6-4f2a-41ff-90bd-ae7cc92031eb&code_challenge=yPhSeWT4uLBr39KF6am8Ffv1_ql7Uto4JF92q4Z4d6g&code_challenge_method=S256&prompt=select_account&redirect_uri=http://127.0.0.1:58379/&response_type=code&scope=XboxLive.SignIn XboxLive.offline_access&state=TjRoaoLR"
+     8.347 D | [launcher.task.net.upload]: "{c12a2230-6abe-4848-86cb-bb28a5a06e72}" Running  "https://login.microsoftonline.com/consumers/oauth2/v2.0/token"
+     8.921 C | [launcher.task.net.upload]: "{c12a2230-6abe-4848-86cb-bb28a5a06e72}" Failed "https://login.microsoftonline.com/consumers/oauth2/v2.0/token" with reason QNetworkReply::ProtocolInvalidOperationError
+     8.922 C | [launcher.task.net.upload]: "{c12a2230-6abe-4848-86cb-bb28a5a06e72}" HTTP Status 400 ;error "Error transferring https://login.microsoftonline.com/consumers/oauth2/v2.0/token - server replied: "
+     8.922 D | [launcher.task.net.upload]: "{c12a2230-6abe-4848-86cb-bb28a5a06e72}" Request failed in previous step: "https://login.microsoftonline.com/consumers/oauth2/v2.0/token"
+    13.704 D | AuthFlow: "Logging in as an Xbox user."
+    13.704 D | First layer of XBox auth ... commencing.
+    13.709 D | [launcher.task.net.upload]: "{520ae4ac-4005-44fe-91b1-45a79bd3203a}" Running  "https://user.auth.xboxlive.com/user/authenticate"
+    13.916 D | [launcher.task.net.upload]: "{093a1a21-07c7-4a16-b7c2-698ec3aaa120}" Running  "https://login.microsoftonline.com/consumers/oauth2/v2.0/token"
+    13.926 D | [launcher.task.net.upload]: "{520ae4ac-4005-44fe-91b1-45a79bd3203a}" Request succeeded: "https://user.auth.xboxlive.com/user/authenticate"
+    13.927 D | Parsing "UToken" :
+    13.927 D | "UToken" is valid.
+    13.927 D | AuthFlow: "Getting authorization to access Xbox services."
+    13.927 D | Getting authorization token for  "http://xboxlive.com"
+    13.929 D | [launcher.task.net.upload]: "{7872efaa-7479-4bb2-88a8-b064f8c55652}" Running  "https://xsts.auth.xboxlive.com/xsts/authorize"
+    14.551 C | [launcher.task.net.upload]: "{093a1a21-07c7-4a16-b7c2-698ec3aaa120}" Failed "https://login.microsoftonline.com/consumers/oauth2/v2.0/token" with reason QNetworkReply::ProtocolInvalidOperationError
+    14.552 C | [launcher.task.net.upload]: "{093a1a21-07c7-4a16-b7c2-698ec3aaa120}" HTTP Status 400 ;error "Error transferring https://login.microsoftonline.com/consumers/oauth2/v2.0/token - server replied: "
+    14.552 D | [launcher.task.net.upload]: "{093a1a21-07c7-4a16-b7c2-698ec3aaa120}" Request failed in previous step: "https://login.microsoftonline.com/consumers/oauth2/v2.0/token"
+    14.669 D | [launcher.task.net.upload]: "{7872efaa-7479-4bb2-88a8-b064f8c55652}" Request succeeded: "https://xsts.auth.xboxlive.com/xsts/authorize"
+    14.670 D | Parsing "Xbox" :
+    14.670 D | "Xbox" is valid.
+    14.670 D | AuthFlow: "Getting authorization to access Mojang services."
+    14.670 D | Getting authorization token for  "rp://api.minecraftservices.com/"
+    14.673 D | [launcher.task.net.upload]: "{c647d611-3eae-41df-a9c4-fd954a5395d2}" Running  "https://xsts.auth.xboxlive.com/xsts/authorize"
+    15.327 D | [launcher.task.net.upload]: "{c647d611-3eae-41df-a9c4-fd954a5395d2}" Request succeeded: "https://xsts.auth.xboxlive.com/xsts/authorize"
+    15.328 D | Parsing "Mojang" :
+    15.328 D | "Mojang" is valid.
+    15.329 D | AuthFlow: "Accessing Mojang services."
+    15.329 D | Getting Minecraft access token...
+    15.332 D | [launcher.task.net.upload]: "{42375402-a2f5-4696-8cae-91423b9cc301}" Running  "https://api.minecraftservices.com/launcher/login"
+    16.043 D | [launcher.task.net.upload]: "{42375402-a2f5-4696-8cae-91423b9cc301}" Request succeeded: "https://api.minecraftservices.com/launcher/login"
+    16.044 D | Parsing Mojang response...
+    16.044 D | Mojang response is valid.
+    16.044 D | AuthFlow: "Fetching Xbox profile."
+    16.044 D | Getting Xbox profile...
+    16.528 D | AuthFlow: "Determining game ownership."
+    16.528 D | Getting entitlements...
+    17.013 D | Parsing Minecraft entitlements...
+    17.013 D | AuthFlow: "Fetching the Minecraft profile."
+    17.762 D | Parsing Minecraft profile...
+    17.762 D | AuthFlow: "Getting skin."
+    18.457 D | Inserting account at index 0
+    18.457 D | Writing account list to "accounts.json"
+    18.457 D | Building JSON data structure.
+    18.457 D | Building account array.
+    18.457 D | Writing account list to file.
+    18.462 D | Saved account list to "accounts.json"
+    18.462 D | Writing account list to "accounts.json"
+    18.462 D | Building JSON data structure.
+    18.462 D | Building account array.
+    18.462 D | Writing account list to file.
+    18.466 D | Saved account list to "accounts.json"
+    18.498 D | Wizard result = 1
+    18.539 D | Reloading news.
+    18.541 D | [launcher.instance.profile.resolve]: Loading components
+    18.541 D | "1.21.5" | Component list save is scheduled
+    18.551 D | [launcher.instance.profile.resolve]: "1.21.5" | Remote loading is being run for "LWJGL 3"
+    18.558 D | [launcher.instance.profile.resolve]: "1.21.5" | Remote loading is being run for "Minecraft"
+    18.558 D | [launcher.instance.profile]: "1.21.5" | Component list update/resolve task failed  Reason: "Some component metadata load tasks failed."
+    18.571 D | Instance-type specific settings were loaded!
+    18.703 D | <> Main window shown.
+    18.703 D | Initializing updater
+    18.703 D | <> Updater started.
+    18.711 D | Discovering instances in "D:/JT Minecraft Files, Mods, and Dependencies/Prism Launcher/instances"
+    18.711 D | Found instance ID "1.21.5"
+    18.711 D | Found instance ID "Optimized Performance - MC 1.21.5 - 1.3"
+    18.711 D | Should keep and soft-reload "1.21.5"
+    18.711 D | Should keep and soft-reload "Optimized Performance - MC 1.21.5 - 1.3"
+    18.986 D | Finished loading RSS feed.
+    18.995 D | Loaded news entry "Prism Launcher Release 9.4, now available"
+    18.995 D | Loaded news entry "Prism Launcher Release 9.3, now available"
+    18.995 D | Loaded news entry "[April Fools 2025] Announcing Prism Premium"
+    18.995 D | Loaded news entry "Moving on from Twitter"
+    18.995 D | Loaded news entry "Prism Launcher Release 9.2, now available"
+    18.995 D | Loaded news entry "Prism Launcher Release 9.1, now available"
+    18.995 D | Loaded news entry "Prism Launcher Release 9.0, now available"
+    18.995 D | Loaded news entry "Prism Launcher Release 8.4, now available"
+    18.995 D | Loaded news entry "Microsoft authentication issues in some regions"
+    18.995 D | Loaded news entry "Prism Launcher Release 8.3, now available"
+    18.995 D | Loaded news entry "Prism Launcher Release 8.2, now available"
+    18.995 D | Loaded news entry "Prism Launcher Release 8.1, now available"
+    18.995 D | Loaded news entry "Prism Launcher Release 8.0, now available"
+    18.995 D | Loaded news entry "[MALWARE WARNING] RCE Vulnerability on some modded servers - Bleeding Pipe"
+    18.995 D | Loaded news entry "Prism Launcher Release 7.2, now available"
+    18.995 D | Loaded news entry "Prism Launcher Release 7.1, now available"
+    18.995 D | Loaded news entry "Prism Launcher Release 7.0, now available"
+    18.995 D | Loaded news entry "FTB Modpack Downloading Removal."
+    18.995 D | Loaded news entry "[MALWARE WARNING] \"fractureiser\" malware in many popular Minecraft mods and modpacks"
+    18.995 D | Loaded news entry "[SECURITY UPDATE] Prism Launcher Release 6.3, now available"
+    18.995 D | Loaded news entry "Prism Launcher Release 6.2, now available"
+    18.996 D | Loaded news entry "Prism Launcher Release 6.1, now available"
+    18.996 D | Loaded news entry "Prism Launcher Release 6.0, now available"
+    18.996 D | Loaded news entry "Prism Launcher Release 5.2, now available"
+    18.996 D | Loaded news entry "Prism Launcher Release 5.1, now available"
+    18.996 D | Loaded news entry "Prism Launcher Release 5.0, now available"
+    18.996 D | Loaded news entry "PolyMC Update 1.4.2, now available"
+    18.996 D | Loaded news entry "PolyMC Update 1.4.1, now available"
+    18.996 D | Loaded news entry "PolyMC Update 1.4.0, now available"
+    18.996 D | Loaded news entry "PolyMC Update 1.3.2, now available"
+    18.996 D | Loaded news entry "PolyMC Update 1.3.1, now available"
+    18.996 D | Loaded news entry "PolyMC Update 1.3.0, now available"
+    18.996 D | Loaded news entry "PolyMC Update 1.2.2, now available (CurseForge Hotfix)"
+    18.996 D | Loaded news entry "PolyMC Update 1.2.1, now available"
+    18.996 D | Loaded news entry "PolyMC Update 1.2.0, now available"
+    18.996 D | Loaded news entry "PolyMC Update 1.1.1, now available"
+    18.996 D | Loaded news entry "PolyMC Update 1.1.0, now available"
+    18.996 D | Loaded news entry "Moving on"
+    18.996 D | Loaded news entry "Modrinth support and Mod downloading"
+    18.996 D | Loaded news entry "New maintainers and step down."
+    18.996 D | News loading succeeded.
+    23.557 D | "1.21.5" | Component list save performed now
+    23.926 D | [launcher.instance.profile.resolve]: Loading components
+    23.926 D | "Optimized Performance - MC 1.21.5 - 1.3" | Component list save is scheduled
+    23.926 D | [launcher.instance.profile.resolve]: "Optimized Performance - MC 1.21.5 - 1.3" | Remote loading is being run for "Minecraft"
+    23.928 D | [launcher.instance.profile.resolve]: "Optimized Performance - MC 1.21.5 - 1.3" | Remote loading is being run for "net.fabricmc.fabric-loader"
+    23.928 D | [launcher.instance.profile]: "Optimized Performance - MC 1.21.5 - 1.3" | Component list update/resolve task failed  Reason: "Some component metadata load tasks failed."
+    23.952 D | Instance-type specific settings were loaded!
+    27.846 D | "Optimized Performance - MC 1.21.5 - 1.3" | Component list save performed now
+    27.855 D | [launcher.instance.profile.resolve]: Loading components
+    27.855 D | "Optimized Performance - MC 1.21.5 - 1.3" | Component list save is scheduled
+    27.855 D | [launcher.instance.profile.resolve]: "Optimized Performance - MC 1.21.5 - 1.3" | Remote loading is being run for "Minecraft"
+    27.855 D | [launcher.instance.profile.resolve]: "Optimized Performance - MC 1.21.5 - 1.3" | Remote loading is being run for "net.fabricmc.fabric-loader"
+    27.963 W | [launcher.task.net]: [HttpMetaCache] Removing cache entry because of old age!
+    28.310 C | Exception: "mismatched checksum"
+    28.311 D | "Unable to parse file D:/JT Minecraft Files, Mods, and Dependencies/Prism Launcher/meta/net.minecraft/index.json: mismatched checksum"
+    28.441 C | Exception: "mismatched checksum"
+    28.441 D | "Unable to parse file D:/JT Minecraft Files, Mods, and Dependencies/Prism Launcher/meta/net.minecraft/1.21.5.json: mismatched checksum"
+    28.444 D | [launcher.instance.profile.resolve]: Remote task 1 succeeded
+    28.526 D | [launcher.instance.profile.resolve]: Remote task 0 succeeded
+    28.526 D | [launcher.instance.profile.resolve]: Resolving dependencies
+    28.526 D | [launcher.instance.profile.resolve]: "Req: net.fabricmc.intermediary" Is missing and should be added at 1
+    28.526 D | [launcher.instance.profile.resolve]: "Req: org.lwjgl3" Is missing and should be added at 0
+    28.526 D | [launcher.instance.profile.resolve]: Adding "net.fabricmc.intermediary" at position 1
+    28.527 D | [launcher.instance.profile.resolve]: Adding "org.lwjgl3" at position 0
+    28.527 D | [launcher.instance.profile.resolve]: "Optimized Performance - MC 1.21.5 - 1.3" | Remote loading is being run for "org.lwjgl3"
+    28.527 D | [launcher.instance.profile.resolve]: "Minecraft" is already loaded
+    28.528 D | [launcher.instance.profile.resolve]: "Optimized Performance - MC 1.21.5 - 1.3" | Remote loading is being run for "net.fabricmc.intermediary"
+    28.528 D | [launcher.instance.profile.resolve]: "Fabric Loader" is already loaded
+    28.536 D | [launcher.instance.profile.resolve]: Remote task 0 succeeded
+    28.726 D | [launcher.instance.profile.resolve]: Remote task 1 succeeded
+    28.726 D | [launcher.instance.profile.resolve]: Resolving dependencies
+    28.726 D | [launcher.instance.profile.resolve]: "Req: net.fabricmc.intermediary" Is met.
+    28.726 D | [launcher.instance.profile.resolve]: "Req: net.minecraft == 1.21.5" Is met.
+    28.726 D | [launcher.instance.profile.resolve]: "Req: org.lwjgl3" Is met.
+    28.726 D | [launcher.instance.profile]: "Optimized Performance - MC 1.21.5 - 1.3" | Component list update/resolve task succeeded
+    28.754 D | [launcher.instance.profile]: "Optimized Performance - MC 1.21.5 - 1.3" | Applying "org.lwjgl3" GOOD
+    28.754 D | [launcher.instance.profile]: "Optimized Performance - MC 1.21.5 - 1.3" | Applying "net.minecraft" GOOD
+    28.754 D | [launcher.instance.profile]: "Optimized Performance - MC 1.21.5 - 1.3" | Applying "net.fabricmc.intermediary" GOOD
+    28.754 D | [launcher.instance.profile]: "Optimized Performance - MC 1.21.5 - 1.3" | Applying "net.fabricmc.fabric-loader" GOOD
+    28.839 D | Running java checker: "D:/JT Minecraft Files, Mods, and Dependencies/Prism Launcher/java/java-runtime-delta/bin/javaw.exe" "-jar D:/JT Minecraft Files, Mods, and Dependencies/Prism Launcher/jars/JavaCheck.jar"
+    29.331 D | STDOUT "os.arch=amd64\njava.version=21.0.3\njava.vendor=Microsoft\n"
+    29.331 W | STDERR ""
+    29.331 D | Java checker finished with status QProcess::NormalExit exit code 0
+    29.331 D | Java checker succeeded.
+    29.467 D | Writing account list to "accounts.json"
+    29.468 D | Building JSON data structure.
+    29.468 D | Building account array.
+    29.468 D | Writing account list to file.
+    29.472 D | Saved account list to "accounts.json"
+    29.473 W | Profile "c9ea93c0a7c045738ade605e10674491" is now in use.
+    29.476 D | "Optimized Performance - MC 1.21.5 - 1.3" : downloading libraries
+    29.476 D | [launcher.instance.profile]: "Optimized Performance - MC 1.21.5 - 1.3" | Applying "org.lwjgl3" GOOD
+    29.476 D | [launcher.instance.profile]: "Optimized Performance - MC 1.21.5 - 1.3" | Applying "net.minecraft" GOOD
+    29.477 D | [launcher.instance.profile]: "Optimized Performance - MC 1.21.5 - 1.3" | Applying "net.fabricmc.intermediary" GOOD
+    29.477 D | [launcher.instance.profile]: "Optimized Performance - MC 1.21.5 - 1.3" | Applying "net.fabricmc.fabric-loader" GOOD
+    29.558 D | Download for: "org.ow2.asm:asm:9.7.1" storage: "org/ow2/asm/asm/9.7.1/asm-9.7.1.jar" url: "https://maven.fabricmc.net/org/ow2/asm/asm/9.7.1/asm-9.7.1.jar"
+    29.560 D | Download for: "net.fabricmc:intermediary:1.21.5" storage: "net/fabricmc/intermediary/1.21.5/intermediary-1.21.5.jar" url: "https://maven.fabricmc.net/net/fabricmc/intermediary/1.21.5/intermediary-1.21.5.jar"
+    29.561 D | Download for: "org.ow2.asm:asm-analysis:9.7.1" storage: "org/ow2/asm/asm-analysis/9.7.1/asm-analysis-9.7.1.jar" url: "https://maven.fabricmc.net/org/ow2/asm/asm-analysis/9.7.1/asm-analysis-9.7.1.jar"
+    29.562 D | Download for: "org.ow2.asm:asm-commons:9.7.1" storage: "org/ow2/asm/asm-commons/9.7.1/asm-commons-9.7.1.jar" url: "https://maven.fabricmc.net/org/ow2/asm/asm-commons/9.7.1/asm-commons-9.7.1.jar"
+    29.563 D | Download for: "org.ow2.asm:asm-tree:9.7.1" storage: "org/ow2/asm/asm-tree/9.7.1/asm-tree-9.7.1.jar" url: "https://maven.fabricmc.net/org/ow2/asm/asm-tree/9.7.1/asm-tree-9.7.1.jar"
+    29.563 D | Download for: "org.ow2.asm:asm-util:9.7.1" storage: "org/ow2/asm/asm-util/9.7.1/asm-util-9.7.1.jar" url: "https://maven.fabricmc.net/org/ow2/asm/asm-util/9.7.1/asm-util-9.7.1.jar"
+    29.564 D | Download for: "net.fabricmc:sponge-mixin:0.15.4+mixin.0.8.7" storage: "net/fabricmc/sponge-mixin/0.15.4+mixin.0.8.7/sponge-mixin-0.15.4+mixin.0.8.7.jar" url: "https://maven.fabricmc.net/net/fabricmc/sponge-mixin/0.15.4+mixin.0.8.7/sponge-mixin-0.15.4+mixin.0.8.7.jar"
+    29.565 D | Download for: "net.fabricmc:fabric-loader:0.16.10" storage: "net/fabricmc/fabric-loader/0.16.10/fabric-loader-0.16.10.jar" url: "https://maven.fabricmc.net/net/fabricmc/fabric-loader/0.16.10/fabric-loader-0.16.10.jar"
+    29.625 W | setGeometry: Unable to set geometry 720x207+840+692 (frame: 742x263+829+647) on QWidgetWindow/"ProgressDialogWindow" on "LQ144P1JX01". Resulting geometry: 720x306+840+593 (frame: 742x362+829+548) margins: 11, 45, 11, 11 minimum size: 480x138 MINMAXINFO(maxSize=POINT(x=0, y=0), maxpos=POINT(x=0, y=0), maxtrack=POINT(x=0, y=0), mintrack=POINT(x=742, y=263)))
+    30.118 D | Asset index SHA1: "18123b3eb40237dba9957276c857f1bcb40bcade"
+    30.118 D | "Optimized Performance - MC 1.21.5 - 1.3" : Starting asset index download
+    30.144 W | setGeometry: Unable to set geometry 720x207+840+692 (frame: 742x263+829+647) on QWidgetWindow/"ProgressDialogWindow" on "LQ144P1JX01". Resulting geometry: 720x306+840+593 (frame: 742x362+829+548) margins: 11, 45, 11, 11 minimum size: 480x138 MINMAXINFO(maxSize=POINT(x=0, y=0), maxpos=POINT(x=0, y=0), maxtrack=POINT(x=0, y=0), mintrack=POINT(x=742, y=263)))
+    30.435 D | "Optimized Performance - MC 1.21.5 - 1.3" : Finished asset index download
+    33.727 D | "Optimized Performance - MC 1.21.5 - 1.3" | Component list save performed now
+    35.567 D | reconstructAssets "assets" "assets/indexes" "assets/objects" "assets/virtual" "assets/virtual/24"
+    35.714 D | "-XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump -Xms512m -Xmx4096m -Duser.language=en -Djava.library.path=D:/JT Minecraft Files, Mods, and Dependencies/Prism Launcher/instances/Optimized Performance - MC 1.21.5 - 1.3/natives -cp D:/JT Minecraft Files, Mods, and Dependencies/Prism Launcher/jars/NewLaunch.jar;D:/JT Minecraft Files, Mods, and Dependencies/Prism Launcher/libraries/org/lwjgl/lwjgl-freetype-natives-windows-arm64/3.3.3/lwjgl-freetype-natives-windows-arm64-3.3.3.jar;D:/JT Minecraft Files, Mods, and Dependencies/Prism Launcher/libraries/org/lwjgl/lwjgl-freetype-natives-windows-x86/3.3.3/lwjgl-freetype-natives-windows-x86-3.3.3.jar;D:/JT Minecraft Files, Mods, and Dependencies/Prism Launcher/libraries/org/lwjgl/lwjgl-freetype-natives-windows/3.3.3/lwjgl-freetype-natives-windows-3.3.3.jar;D:/JT Minecraft Files, Mods, and Dependencies/Prism Launcher/libraries/org/lwjgl/lwjgl-freetype/3.3.3/lwjgl-freetype-3.3.3.jar;D:/JT Minecraft Files, Mods, and Dependencies/Prism Launcher/libraries/org/lwjgl/lwjgl-glfw-natives-windows-arm64/3.3.3/lwjgl-glfw-natives-windows-arm64-3.3.3.jar;D:/JT Minecraft Files, Mods, and Dependencies/Prism Launcher/libraries/org/lwjgl/lwjgl-glfw-natives-windows-x86/3.3.3/lwjgl-glfw-natives-windows-x86-3.3.3.jar;D:/JT Minecraft Files, Mods, and Dependencies/Prism Launcher/libraries/org/lwjgl/lwjgl-glfw-natives-windows/3.3.3/lwjgl-glfw-natives-windows-3.3.3.jar;D:/JT Minecraft Files, Mods, and Dependencies/Prism Launcher/libraries/org/lwjgl/lwjgl-glfw/3.3.3/lwjgl-glfw-3.3.3.jar;D:/JT Minecraft Files, Mods, and Dependencies/Prism Launcher/libraries/org/lwjgl/lwjgl-jemalloc-natives-windows-arm64/3.3.3/lwjgl-jemalloc-natives-windows-arm64-3.3.3.jar;D:/JT Minecraft Files, Mods, and Dependencies/Prism Launcher/libraries/org/lwjgl/lwjgl-jemalloc-natives-windows-x86/3.3.3/lwjgl-jemalloc-natives-windows-x86-3.3.3.jar;D:/JT Minecraft Files, Mods, and Dependencies/Prism Launcher/libraries/org/lwjgl/lwjgl-jemalloc-natives-windows/3.3.3/lwjgl-jemalloc-natives-windows-3.3.3.jar;D:/JT Minecraft Files, Mods, and Dependencies/Prism Launcher/libraries/org/lwjgl/lwjgl-jemalloc/3.3.3/lwjgl-jemalloc-3.3.3.jar;D:/JT Minecraft Files, Mods, and Dependencies/Prism Launcher/libraries/org/lwjgl/lwjgl-natives-windows-arm64/3.3.3/lwjgl-natives-windows-arm64-3.3.3.jar;D:/JT Minecraft Files, Mods, and Dependencies/Prism Launcher/libraries/org/lwjgl/lwjgl-natives-windows-x86/3.3.3/lwjgl-natives-windows-x86-3.3.3.jar;D:/JT Minecraft Files, Mods, and Dependencies/Prism Launcher/libraries/org/lwjgl/lwjgl-natives-windows/3.3.3/lwjgl-natives-windows-3.3.3.jar;D:/JT Minecraft Files, Mods, and Dependencies/Prism Launcher/libraries/org/lwjgl/lwjgl-openal-natives-windows-arm64/3.3.3/lwjgl-openal-natives-windows-arm64-3.3.3.jar;D:/JT Minecraft Files, Mods, and Dependencies/Prism Launcher/libraries/org/lwjgl/lwjgl-openal-natives-windows-x86/3.3.3/lwjgl-openal-natives-windows-x86-3.3.3.jar;D:/JT Minecraft Files, Mods, and Dependencies/Prism Launcher/libraries/org/lwjgl/lwjgl-openal-natives-windows/3.3.3/lwjgl-openal-natives-windows-3.3.3.jar;D:/JT Minecraft Files, Mods, and Dependencies/Prism Launcher/libraries/org/lwjgl/lwjgl-openal/3.3.3/lwjgl-openal-3.3.3.jar;D:/JT Minecraft Files, Mods, and Dependencies/Prism Launcher/libraries/org/lwjgl/lwjgl-opengl-natives-windows-arm64/3.3.3/lwjgl-opengl-natives-windows-arm64-3.3.3.jar;D:/JT Minecraft Files, Mods, and Dependencies/Prism Launcher/libraries/org/lwjgl/lwjgl-opengl-natives-windows-x86/3.3.3/lwjgl-opengl-natives-windows-x86-3.3.3.jar;D:/JT Minecraft Files, Mods, and Dependencies/Prism Launcher/libraries/org/lwjgl/lwjgl-opengl-natives-windows/3.3.3/lwjgl-opengl-natives-windows-3.3.3.jar;D:/JT Minecraft Files, Mods, and Dependencies/Prism Launcher/libraries/org/lwjgl/lwjgl-opengl/3.3.3/lwjgl-opengl-3.3.3.jar;D:/JT Minecraft Files, Mods, and Dependencies/Prism Launcher/libraries/org/lwjgl/lwjgl-stb-natives-windows-arm64/3.3.3/lwjgl-stb-natives-windows-arm64-3.3.3.jar;D:/JT Minecraft Files, Mods, and Dependencies/Prism Launcher/libraries/org/lwjgl/lwjgl-stb-natives-windows-x86/3.3.3/lwjgl-stb-natives-windows-x86-3.3.3.jar;D:/JT Minecraft Files, Mods, and Dependencies/Prism Launcher/libraries/org/lwjgl/lwjgl-stb-natives-windows/3.3.3/lwjgl-stb-natives-windows-3.3.3.jar;D:/JT Minecraft Files, Mods, and Dependencies/Prism Launcher/libraries/org/lwjgl/lwjgl-stb/3.3.3/lwjgl-stb-3.3.3.jar;D:/JT Minecraft Files, Mods, and Dependencies/Prism Launcher/libraries/org/lwjgl/lwjgl-tinyfd-natives-windows-arm64/3.3.3/lwjgl-tinyfd-natives-windows-arm64-3.3.3.jar;D:/JT Minecraft Files, Mods, and Dependencies/Prism Launcher/libraries/org/lwjgl/lwjgl-tinyfd-natives-windows-x86/3.3.3/lwjgl-tinyfd-natives-windows-x86-3.3.3.jar;D:/JT Minecraft Files, Mods, and Dependencies/Prism Launcher/libraries/org/lwjgl/lwjgl-tinyfd-natives-windows/3.3.3/lwjgl-tinyfd-natives-windows-3.3.3.jar;D:/JT Minecraft Files, Mods, and Dependencies/Prism Launcher/libraries/org/lwjgl/lwjgl-tinyfd/3.3.3/lwjgl-tinyfd-3.3.3.jar;D:/JT Minecraft Files, Mods, and Dependencies/Prism Launcher/libraries/org/lwjgl/lwjgl/3.3.3/lwjgl-3.3.3.jar;D:/JT Minecraft Files, Mods, and Dependencies/Prism Launcher/libraries/com/fasterxml/jackson/core/jackson-annotations/2.13.4/jackson-annotations-2.13.4.jar;D:/JT Minecraft Files, Mods, and Dependencies/Prism Launcher/libraries/com/fasterxml/jackson/core/jackson-core/2.13.4/jackson-core-2.13.4.jar;D:/JT Minecraft Files, Mods, and Dependencies/Prism Launcher/libraries/com/fasterxml/jackson/core/jackson-databind/2.13.4.2/jackson-databind-2.13.4.2.jar;D:/JT Minecraft Files, Mods, and Dependencies/Prism Launcher/libraries/com/github/oshi/oshi-core/6.6.5/oshi-core-6.6.5.jar;D:/JT Minecraft Files, Mods, and Dependencies/Prism Launcher/libraries/com/github/stephenc/jcip/jcip-annotations/1.0-1/jcip-annotations-1.0-1.jar;D:/JT Minecraft Files, Mods, and Dependencies/Prism Launcher/libraries/com/google/code/gson/gson/2.11.0/gson-2.11.0.jar;D:/JT Minecraft Files, Mods, and Dependencies/Prism Launcher/libraries/com/google/guava/failureaccess/1.0.2/failureaccess-1.0.2.jar;D:/JT Minecraft Files, Mods, and Dependencies/Prism Launcher/libraries/com/google/guava/guava/33.3.1-jre/guava-33.3.1-jre.jar;D:/JT Minecraft Files, Mods, and Dependencies/Prism Launcher/libraries/com/ibm/icu/icu4j/76.1/icu4j-76.1.jar;D:/JT Minecraft Files, Mods, and Dependencies/Prism Launcher/libraries/com/microsoft/azure/msal4j/1.17.2/msal4j-1.17.2.jar;D:/JT Minecraft Files, Mods, and Dependencies/Prism Launcher/libraries/com/mojang/authlib/6.0.58/authlib-6.0.58.jar;D:/JT Minecraft Files, Mods, and Dependencies/Prism Launcher/libraries/com/mojang/blocklist/1.0.10/blocklist-1.0.10.jar;D:/JT Minecraft Files, Mods, and Dependencies/Prism Launcher/libraries/com/mojang/brigadier/1.3.10/brigadier-1.3.10.jar;D:/JT Minecraft Files, Mods, and Dependencies/Prism Launcher/libraries/com/mojang/datafixerupper/8.0.16/datafixerupper-8.0.16.jar;D:/JT Minecraft Files, Mods, and Dependencies/Prism Launcher/libraries/com/mojang/jtracy/1.0.29/jtracy-1.0.29.jar;D:/JT Minecraft Files, Mods, and Dependencies/Prism Launcher/libraries/com/mojang/jtracy-natives-windows/1.0.29/jtracy-natives-windows-1.0.29.jar;D:/JT Minecraft Files, Mods, and Dependencies/Prism Launcher/libraries/com/mojang/logging/1.5.10/logging-1.5.10.jar;D:/JT Minecraft Files, Mods, and Dependencies/Prism Launcher/libraries/com/mojang/patchy/2.2.10/patchy-2.2.10.jar;D:/JT Minecraft Files, Mods, and Dependencies/Prism Launcher/libraries/com/mojang/text2speech/1.18.11/text2speech-1.18.11.jar;D:/JT Minecraft Files, Mods, and Dependencies/Prism Launcher/libraries/com/nimbusds/content-type/2.3/content-type-2.3.jar;D:/JT Minecraft Files, Mods, and Dependencies/Prism Launcher/libraries/com/nimbusds/lang-tag/1.7/lang-tag-1.7.jar;D:/JT Minecraft Files, Mods, and Dependencies/Prism Launcher/libraries/com/nimbusds/nimbus-jose-jwt/9.40/nimbus-jose-jwt-9.40.jar;D:/JT Minecraft Files, Mods, and Dependencies/Prism Launcher/libraries/com/nimbusds/oauth2-oidc-sdk/11.18/oauth2-oidc-sdk-11.18.jar;D:/JT Minecraft Files, Mods, and Dependencies/Prism Launcher/libraries/commons-codec/commons-codec/1.17.1/commons-codec-1.17.1.jar;D:/JT Minecraft Files, Mods, and Dependencies/Prism Launcher/libraries/commons-io/commons-io/2.17.0/commons-io-2.17.0.jar;D:/JT Minecraft Files, Mods, and Dependencies/Prism Launcher/libraries/commons-logging/commons-logging/1.3.4/commons-logging-1.3.4.jar;D:/JT Minecraft Files, Mods, and Dependencies/Prism Launcher/libraries/io/netty/netty-buffer/4.1.118.Final/netty-buffer-4.1.118.Final.jar;D:/JT Minecraft Files, Mods, and Dependencies/Prism Launcher/libraries/io/netty/netty-codec/4.1.118.Final/netty-codec-4.1.118.Final.jar;D:/JT Minecraft Files, Mods, and Dependencies/Prism Launcher/libraries/io/netty/netty-common/4.1.118.Final/netty-common-4.1.118.Final.jar;D:/JT Minecraft Files, Mods, and Dependencies/Prism Launcher/libraries/io/netty/netty-handler/4.1.118.Final/netty-handler-4.1.118.Final.jar;D:/JT Minecraft Files, Mods, and Dependencies/Prism Launcher/libraries/io/netty/netty-resolver/4.1.118.Final/netty-resolver-4.1.118.Final.jar;D:/JT Minecraft Files, Mods, and Dependencies/Prism Launcher/libraries/io/netty/netty-transport-classes-epoll/4.1.118.Final/netty-transport-classes-epoll-4.1.118.Final.jar;D:/JT Minecraft Files, Mods, and Dependencies/Prism Launcher/libraries/io/netty/netty-transport-native-unix-common/4.1.118.Final/netty-transport-native-unix-common-4.1.118.Final.jar;D:/JT Minecraft Files, Mods, and Dependencies/Prism Launcher/libraries/io/netty/netty-transport/4.1.118.Final/netty-transport-4.1.118.Final.jar;D:/JT Minecraft Files, Mods, and Dependencies/Prism Launcher/libraries/it/unimi/dsi/fastutil/8.5.15/fastutil-8.5.15.jar;D:/JT Minecraft Files, Mods, and Dependencies/Prism Launcher/libraries/net/java/dev/jna/jna-platform/5.15.0/jna-platform-5.15.0.jar;D:/JT Minecraft Files, Mods, and Dependencies/Prism Launcher/libraries/net/java/dev/jna/jna/5.15.0/jna-5.15.0.jar;D:/JT Minecraft Files, Mods, and Dependencies/Prism Launcher/libraries/net/minidev/accessors-smart/2.5.1/accessors-smart-2.5.1.jar;D:/JT Minecraft Files, Mods, and Dependencies/Prism Launcher/libraries/net/minidev/json-smart/2.5.1/json-smart-2.5.1.jar;D:/JT Minecraft Files, Mods, and Dependencies/Prism Launcher/libraries/net/sf/jopt-simple/jopt-simple/5.0.4/jopt-simple-5.0.4.jar;D:/JT Minecraft Files, Mods, and Dependencies/Prism Launcher/libraries/org/apache/commons/commons-compress/1.27.1/commons-compress-1.27.1.jar;D:/JT Minecraft Files, Mods, and Dependencies/Prism Launcher/libraries/org/apache/commons/commons-lang3/3.17.0/commons-lang3-3.17.0.jar;D:/JT Minecraft Files, Mods, and Dependencies/Prism Launcher/libraries/org/apache/httpcomponents/httpclient/4.5.14/httpclient-4.5.14.jar;D:/JT Minecraft Files, Mods, and Dependencies/Prism Launcher/libraries/org/apache/httpcomponents/httpcore/4.4.16/httpcore-4.4.16.jar;D:/JT Minecraft Files, Mods, and Dependencies/Prism Launcher/libraries/org/apache/logging/log4j/log4j-api/2.24.1/log4j-api-2.24.1.jar;D:/JT Minecraft Files, Mods, and Dependencies/Prism Launcher/libraries/org/apache/logging/log4j/log4j-core/2.24.1/log4j-core-2.24.1.jar;D:/JT Minecraft Files, Mods, and Dependencies/Prism Launcher/libraries/org/apache/logging/log4j/log4j-slf4j2-impl/2.24.1/log4j-slf4j2-impl-2.24.1.jar;D:/JT Minecraft Files, Mods, and Dependencies/Prism Launcher/libraries/org/jcraft/jorbis/0.0.17/jorbis-0.0.17.jar;D:/JT Minecraft Files, Mods, and Dependencies/Prism Launcher/libraries/org/joml/joml/1.10.8/joml-1.10.8.jar;D:/JT Minecraft Files, Mods, and Dependencies/Prism Launcher/libraries/org/lz4/lz4-java/1.8.0/lz4-java-1.8.0.jar;D:/JT Minecraft Files, Mods, and Dependencies/Prism Launcher/libraries/org/ow2/asm/asm/9.7.1/asm-9.7.1.jar;D:/JT Minecraft Files, Mods, and Dependencies/Prism Launcher/libraries/org/slf4j/slf4j-api/2.0.16/slf4j-api-2.0.16.jar;D:/JT Minecraft Files, Mods, and Dependencies/Prism Launcher/libraries/net/fabricmc/intermediary/1.21.5/intermediary-1.21.5.jar;D:/JT Minecraft Files, Mods, and Dependencies/Prism Launcher/libraries/org/ow2/asm/asm-analysis/9.7.1/asm-analysis-9.7.1.jar;D:/JT Minecraft Files, Mods, and Dependencies/Prism Launcher/libraries/org/ow2/asm/asm-commons/9.7.1/asm-commons-9.7.1.jar;D:/JT Minecraft Files, Mods, and Dependencies/Prism Launcher/libraries/org/ow2/asm/asm-tree/9.7.1/asm-tree-9.7.1.jar;D:/JT Minecraft Files, Mods, and Dependencies/Prism Launcher/libraries/org/ow2/asm/asm-util/9.7.1/asm-util-9.7.1.jar;D:/JT Minecraft Files, Mods, and Dependencies/Prism Launcher/libraries/net/fabricmc/sponge-mixin/0.15.4+mixin.0.8.7/sponge-mixin-0.15.4+mixin.0.8.7.jar;D:/JT Minecraft Files, Mods, and Dependencies/Prism Launcher/libraries/net/fabricmc/fabric-loader/0.16.10/fabric-loader-0.16.10.jar;D:/JT Minecraft Files, Mods, and Dependencies/Prism Launcher/libraries/com/mojang/minecraft/1.21.5/minecraft-1.21.5-client.jar org.prismlauncher.EntryPoint"
+    60.428 D | [launcher.task.net.metacache.http]: Saving metacache with 14 entries
+  6878.207 D | Writing account list to "accounts.json"
+  6878.207 D | Building JSON data structure.
+  6878.207 D | Building account array.
+  6878.209 D | Writing account list to file.
+  6878.215 D | Saved account list to "accounts.json"
+  6878.219 W | Profile "c9ea93c0a7c045738ade605e10674491" is no longer in use.

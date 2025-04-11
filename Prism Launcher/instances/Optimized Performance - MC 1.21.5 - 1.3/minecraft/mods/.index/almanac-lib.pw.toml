@@ -1,0 +1,16 @@
+filename = 'Almanac-1.21.5-fabric-1.4.5.jar'
+name = 'Almanac Lib'
+side = 'server'
+x-prismlauncher-loaders = [ 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21.5' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '414a764b967bf28fd866d9705378c12169c345d2'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6374443
+project-id = 1115285

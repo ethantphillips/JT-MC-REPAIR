@@ -1,0 +1,16 @@
+filename = 'spark-1.10.128-fabric.jar'
+name = 'spark'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21.5' ]
+x-prismlauncher-release-type = 'beta'
+
+[download]
+hash = 'e0ccb6cafd550145d2b1b6357983f46f11ce4f50'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6353301
+project-id = 361579

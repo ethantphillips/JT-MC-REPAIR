@@ -1,0 +1,16 @@
+filename = 'lithium-fabric-0.16.1+mc1.21.5.jar'
+name = 'Lithium (Fabric/NeoForge)'
+side = 'both'
+x-prismlauncher-loaders = [ 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21.5' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'd927422ab4e36fc7eb93cbc8fd10fab5501a662e'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6392213
+project-id = 360438

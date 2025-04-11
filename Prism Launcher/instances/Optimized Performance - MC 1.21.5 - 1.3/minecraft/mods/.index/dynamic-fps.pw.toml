@@ -1,0 +1,16 @@
+filename = 'dynamic-fps-3.9.2+minecraft-1.21.5-fabric.jar'
+name = 'Dynamic FPS'
+side = 'client'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21.5' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'adc57c628f52797c9960c33fb0a3d223a537d45c'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6347454
+project-id = 335493

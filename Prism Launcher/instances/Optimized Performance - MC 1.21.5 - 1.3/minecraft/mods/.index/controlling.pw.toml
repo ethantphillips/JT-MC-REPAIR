@@ -1,0 +1,16 @@
+filename = 'Controlling-fabric-1.21.5-23.0.1.jar'
+name = 'Controlling'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21.5' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '70109a220a55d0e31608ca6181ebf8802991f784'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6368686
+project-id = 250398

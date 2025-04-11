@@ -1,0 +1,483 @@
+     0.001 D | Testing "C:/Users/ethan/Downloads/JT Minecraft Files, Mods, and Depencdencies/Prism Launcher/qtlogging.ini" ...
+     0.001 D | Loading logging rules from: "C:/Users/ethan/Downloads/JT Minecraft Files, Mods, and Depencdencies/Prism Launcher/qtlogging.ini"
+     0.001 D | Setting log rules:
+     0.001 D |      "*.debug=true"
+     0.001 D |      "launcher.auth.credentials.debug=false"
+     0.001 D |      "launcher.task=false"
+     0.001 D |      "launcher.task.net=true"
+     0.001 D |      "launcher.task.net.download.debug=false"
+     0.001 D |      "launcher.task.net.metacache=false"
+     0.001 D |      "launcher.task.net.metacache.http=true"
+     0.001 D |      "launcher.task.net.upload=true"
+     0.001 D |      "qt.*.debug=false"
+     0.001 D | <> Log initialized.
+     0.001 D | <> No migration needed from "PolyMC"
+     0.001 D | <> No migration needed from "MultiMC"
+     0.001 D | Prism Launcher, � 2022-2025 Prism Launcher Contributors, � 2021-2022 PolyMC Contributors, � 2012-2021 MultiMC Contributors
+     0.002 D | Version                    :  "9.4"
+     0.002 D | Platform                   :  "official"
+     0.002 D | Git commit                 :  ""
+     0.002 D | Git refspec                :  "refs/heads/stable"
+     0.002 D | Compiled for               :  "Windows 6.2.9200 AMD64"
+     0.002 D | Compiled by                :  "Clang - 20.1.1"
+     0.002 D | Build Artifact             :  "Windows-MinGW-w64-Qt"
+     0.002 D | Updates Enabled           :  Yes
+     0.002 D | Work dir before adjustment :  "C:/Users/ethan/Downloads/JT Minecraft Files, Mods, and Depencdencies/Prism Launcher"
+     0.002 D | Work dir after adjustment  :  "C:/Users/ethan/Downloads/JT Minecraft Files, Mods, and Depencdencies/Prism Launcher"
+     0.002 D | Adjusted by                :  "Portable data path"
+     0.002 D | Binary path                :  "C:/Users/ethan/Downloads/JT Minecraft Files, Mods, and Depencdencies/Prism Launcher"
+     0.002 D | Application root path      :  "C:/Users/ethan/Downloads/JT Minecraft Files, Mods, and Depencdencies/Prism Launcher"
+     0.002 D | <> Paths set.
+     0.006 D | Detected default console font: "Courier New" , substitutions: ""
+     0.055 D | <> Settings loaded.
+     0.056 D | Detecting proxy settings...
+     0.056 D | Using no proxy is an option!
+     0.056 D | <> Network done.
+     0.056 C | Exception: "Unable to open C:/Users/ethan/Downloads/JT Minecraft Files, Mods, and Depencdencies/Prism Launcher/translations/index_v2.json for reading: The system cannot find the file specified."
+     0.056 C | Translations Download Failed: index file not readable
+     0.057 W | Selected invalid language "" , defaulting to "en_US"
+     0.057 D | Your language is ""
+     0.057 D | <> Translations loaded.
+     0.059 D | Started watching  "C:/Users/ethan/Downloads/JT Minecraft Files, Mods, and Depencdencies/Prism Launcher/icons"
+     0.059 D | Sorting icon list...
+     0.060 D | <> Instance icons initialized.
+     0.060 D | [Theme] Determining System Widget Theme...
+     0.060 D | [Theme] System theme seems to be: "windows11"
+     0.060 D | [Theme] <> Initializing Icon Themes
+     0.060 D | [Theme] Loaded Built-In Icon Theme "pe_colored"
+     0.060 D | [Theme] Loaded Built-In Icon Theme "pe_light"
+     0.060 D | [Theme] Loaded Built-In Icon Theme "pe_dark"
+     0.060 D | [Theme] Loaded Built-In Icon Theme "pe_blue"
+     0.060 D | [Theme] Loaded Built-In Icon Theme "breeze_light"
+     0.061 D | [Theme] Loaded Built-In Icon Theme "breeze_dark"
+     0.061 D | [Theme] Loaded Built-In Icon Theme "OSX"
+     0.061 D | [Theme] Loaded Built-In Icon Theme "iOS"
+     0.061 D | [Theme] Loaded Built-In Icon Theme "flat"
+     0.061 D | [Theme] Loaded Built-In Icon Theme "flat_white"
+     0.061 D | [Theme] Loaded Built-In Icon Theme "multimc"
+     0.061 D | [Theme] Icon Theme Folder Path:  "C:/Users/ethan/Downloads/JT Minecraft Files, Mods, and Depencdencies/Prism Launcher/iconthemes"
+     0.061 D | [Theme] <> Icon themes initialized.
+     0.061 D | [Theme] <> Initializing Widget Themes
+     0.061 D | [Theme] Loading Built-in Theme: "system"
+     0.061 D | [Theme] Loading Built-in Theme: "dark"
+     0.061 D | [Theme] Loading Built-in Theme: "bright"
+     0.061 D | [Theme] <> Initializing System Widget Themes
+     0.061 D | [Theme] Loading System Theme: "windows11"
+     0.061 D | [Theme] Loading System Theme: "windowsvista"
+     0.061 D | [Theme] Loading System Theme: "Windows"
+     0.061 D | [Theme] Loading System Theme: "Fusion"
+     0.062 D | [Theme] Theme Folder Path:  "C:/Users/ethan/Downloads/JT Minecraft Files, Mods, and Depencdencies/Prism Launcher/themes"
+     0.062 D | [Theme] <> Widget themes initialized.
+     0.062 D | [Theme] CatPacks Folder Path: "C:/Users/ethan/Downloads/JT Minecraft Files, Mods, and Depencdencies/Prism Launcher/catpacks"
+     0.072 D | Instance path              :  "instances"
+     0.073 D | Loading Instances...
+     0.073 D | Discovering instances in "C:/Users/ethan/Downloads/JT Minecraft Files, Mods, and Depencdencies/Prism Launcher/instances"
+     0.073 D | <> Instances loaded.
+     0.073 D | Loading accounts...
+     0.073 C | "Failed to read the account list file (accounts.json)."
+     0.074 D | <> Accounts loaded.
+     0.074 D | <> Cache initialized.
+     0.074 D | Downloading Translations Index...
+     0.116 D | [Theme] <> Icon theme set.
+     0.116 D | [Theme] applying theme "Dark"
+     0.116 D | [Theme] <> Application theme set.
+     0.139 D | [Theme] <> Initializing Icon Themes
+     0.139 D | [Theme] Loaded Built-In Icon Theme "pe_colored"
+     0.139 D | [Theme] Loaded Built-In Icon Theme "pe_light"
+     0.139 D | [Theme] Loaded Built-In Icon Theme "pe_dark"
+     0.139 D | [Theme] Loaded Built-In Icon Theme "pe_blue"
+     0.139 D | [Theme] Loaded Built-In Icon Theme "breeze_light"
+     0.139 D | [Theme] Loaded Built-In Icon Theme "breeze_dark"
+     0.139 D | [Theme] Loaded Built-In Icon Theme "OSX"
+     0.139 D | [Theme] Loaded Built-In Icon Theme "iOS"
+     0.139 D | [Theme] Loaded Built-In Icon Theme "flat"
+     0.139 D | [Theme] Loaded Built-In Icon Theme "flat_white"
+     0.139 D | [Theme] Loaded Built-In Icon Theme "multimc"
+     0.140 D | [Theme] Icon Theme Folder Path:  "C:/Users/ethan/Downloads/JT Minecraft Files, Mods, and Depencdencies/Prism Launcher/iconthemes"
+     0.140 D | [Theme] <> Icon themes initialized.
+     0.140 D | [Theme] <> Initializing Widget Themes
+     0.140 D | [Theme] Loading Built-in Theme: "system"
+     0.140 D | [Theme] Loading Built-in Theme: "dark"
+     0.140 D | [Theme] Loading Built-in Theme: "bright"
+     0.140 D | [Theme] <> Initializing System Widget Themes
+     0.140 D | [Theme] Loading System Theme: "windows11"
+     0.140 D | [Theme] Loading System Theme: "windowsvista"
+     0.140 D | [Theme] Loading System Theme: "Windows"
+     0.140 D | [Theme] Loading System Theme: "Fusion"
+     0.140 D | [Theme] Theme Folder Path:  "C:/Users/ethan/Downloads/JT Minecraft Files, Mods, and Depencdencies/Prism Launcher/themes"
+     0.140 D | [Theme] <> Widget themes initialized.
+     0.140 D | [Theme] CatPacks Folder Path: "C:/Users/ethan/Downloads/JT Minecraft Files, Mods, and Depencdencies/Prism Launcher/catpacks"
+     0.147 D | Setting Icons
+     0.147 D | Setting Cat
+     0.147 D | [Theme] applying catpack "kitteh"
+     0.262 D | Dir changed: "C:/Users/ethan/Downloads/JT Minecraft Files, Mods, and Depencdencies/Prism Launcher/translations"
+     1.415 D | Dir changed: "C:/Users/ethan/Downloads/JT Minecraft Files, Mods, and Depencdencies/Prism Launcher/translations"
+     1.415 D | Got translations index!
+     1.430 W | QAbstractItemModel::endInsertRows:  Invalid index ( 82 , 1 ) in model TranslationsModel(0x21ae546f010)
+     1.430 W | QAbstractItemModel::endInsertRows:  Invalid index ( 82 , 0 ) in model TranslationsModel(0x21ae546f010)
+     2.745 W | Cannot update builtin language "en_US"
+    15.932 D | [Theme] <> Icon theme set.
+    15.932 D | [Theme] applying theme "Dark"
+    15.947 D | [Theme] <> Application theme set.
+    15.947 D | Setting Icons
+    15.953 D | Setting Icons
+    23.127 D | Wizard result = 1
+    23.176 D | Reloading news.
+    23.244 D | <> Main window shown.
+    23.245 D | Initializing updater
+    23.245 D | <> Updater started.
+    23.776 D | Finished loading RSS feed.
+    23.780 D | Loaded news entry "Prism Launcher Release 9.4, now available"
+    23.780 D | Loaded news entry "Prism Launcher Release 9.3, now available"
+    23.780 D | Loaded news entry "[April Fools 2025] Announcing Prism Premium"
+    23.780 D | Loaded news entry "Moving on from Twitter"
+    23.780 D | Loaded news entry "Prism Launcher Release 9.2, now available"
+    23.780 D | Loaded news entry "Prism Launcher Release 9.1, now available"
+    23.780 D | Loaded news entry "Prism Launcher Release 9.0, now available"
+    23.780 D | Loaded news entry "Prism Launcher Release 8.4, now available"
+    23.780 D | Loaded news entry "Microsoft authentication issues in some regions"
+    23.780 D | Loaded news entry "Prism Launcher Release 8.3, now available"
+    23.780 D | Loaded news entry "Prism Launcher Release 8.2, now available"
+    23.780 D | Loaded news entry "Prism Launcher Release 8.1, now available"
+    23.780 D | Loaded news entry "Prism Launcher Release 8.0, now available"
+    23.780 D | Loaded news entry "[MALWARE WARNING] RCE Vulnerability on some modded servers - Bleeding Pipe"
+    23.780 D | Loaded news entry "Prism Launcher Release 7.2, now available"
+    23.780 D | Loaded news entry "Prism Launcher Release 7.1, now available"
+    23.781 D | Loaded news entry "Prism Launcher Release 7.0, now available"
+    23.781 D | Loaded news entry "FTB Modpack Downloading Removal."
+    23.781 D | Loaded news entry "[MALWARE WARNING] \"fractureiser\" malware in many popular Minecraft mods and modpacks"
+    23.781 D | Loaded news entry "[SECURITY UPDATE] Prism Launcher Release 6.3, now available"
+    23.781 D | Loaded news entry "Prism Launcher Release 6.2, now available"
+    23.781 D | Loaded news entry "Prism Launcher Release 6.1, now available"
+    23.781 D | Loaded news entry "Prism Launcher Release 6.0, now available"
+    23.781 D | Loaded news entry "Prism Launcher Release 5.2, now available"
+    23.781 D | Loaded news entry "Prism Launcher Release 5.1, now available"
+    23.781 D | Loaded news entry "Prism Launcher Release 5.0, now available"
+    23.781 D | Loaded news entry "PolyMC Update 1.4.2, now available"
+    23.781 D | Loaded news entry "PolyMC Update 1.4.1, now available"
+    23.781 D | Loaded news entry "PolyMC Update 1.4.0, now available"
+    23.781 D | Loaded news entry "PolyMC Update 1.3.2, now available"
+    23.781 D | Loaded news entry "PolyMC Update 1.3.1, now available"
+    23.781 D | Loaded news entry "PolyMC Update 1.3.0, now available"
+    23.781 D | Loaded news entry "PolyMC Update 1.2.2, now available (CurseForge Hotfix)"
+    23.781 D | Loaded news entry "PolyMC Update 1.2.1, now available"
+    23.781 D | Loaded news entry "PolyMC Update 1.2.0, now available"
+    23.781 D | Loaded news entry "PolyMC Update 1.1.1, now available"
+    23.781 D | Loaded news entry "PolyMC Update 1.1.0, now available"
+    23.781 D | Loaded news entry "Moving on"
+    23.781 D | Loaded news entry "Modrinth support and Mod downloading"
+    23.781 D | Loaded news entry "New maintainers and step down."
+    23.781 D | News loading succeeded.
+    26.337 W | beginResetModel called on VersionProxyModel(0x21a853b6b20) without calling endResetModel first
+    26.337 W | beginResetModel called on VersionBasicModel(0x21a85343420) without calling endResetModel first
+    26.337 W | beginResetModel called on AllVersionProxyModel(0x21a85343400) without calling endResetModel first
+    26.339 W | endResetModel called on VersionProxyModel(0x21a853b6b20) without calling beginResetModel first
+    26.339 W | endResetModel called on VersionBasicModel(0x21a85343420) without calling beginResetModel first
+    26.339 W | endResetModel called on AllVersionProxyModel(0x21a85343400) without calling beginResetModel first
+    26.349 W | The ftb app setings doesn't exist.
+    26.353 W | beginResetModel called on VersionProxyModel(0x21a85809ca0) without calling endResetModel first
+    26.353 W | beginResetModel called on VersionBasicModel(0x21a8581a840) without calling endResetModel first
+    26.353 W | beginResetModel called on CheckComboModel(0x21a85a2f4d0) without calling endResetModel first
+    26.355 W | endResetModel called on VersionProxyModel(0x21a85809ca0) without calling beginResetModel first
+    26.355 W | endResetModel called on VersionBasicModel(0x21a8581a840) without calling beginResetModel first
+    26.355 W | endResetModel called on CheckComboModel(0x21a85a2f4d0) without calling beginResetModel first
+    26.379 W | beginResetModel called on VersionProxyModel(0x21a8543fc60) without calling endResetModel first
+    26.380 W | endResetModel called on VersionProxyModel(0x21a8543fc60) without calling beginResetModel first
+    39.442 D | Discovering instances in "C:/Users/ethan/Downloads/JT Minecraft Files, Mods, and Depencdencies/Prism Launcher/instances"
+    39.443 D | Discovering instances in "C:/Users/ethan/Downloads/JT Minecraft Files, Mods, and Depencdencies/Prism Launcher/instances"
+    39.447 D | "1.21.5" | Component list save performed now
+    39.481 D | Discovering instances in "C:/Users/ethan/Downloads/JT Minecraft Files, Mods, and Depencdencies/Prism Launcher/instances"
+    39.482 D | Found instance ID "1.21.5"
+    39.482 D | Will load group list now.
+    39.482 D | Loaded instance  "1.21.5"  from  "C:/Users/ethan/Downloads/JT Minecraft Files, Mods, and Depencdencies/Prism Launcher/instances/1.21.5"
+    39.483 D | [launcher.instance.profile.resolve]: Loading components
+    39.483 D | "1.21.5" | Component list save is scheduled
+    39.484 D | [launcher.instance.profile.resolve]: "1.21.5" | Remote loading is being run for "net.minecraft"
+    39.484 D | [launcher.instance.profile]: "1.21.5" | Component list update/resolve task failed  Reason: "Some component metadata load tasks failed."
+    39.501 D | Instance-type specific settings were loaded!
+    39.519 D | Will save group list now.
+    39.529 D | Group list saved.
+    43.925 D | Opening path QFileInfo(C:\Users\ethan\Downloads\JT Minecraft Files, Mods, and Depencdencies\Prism Launcher\instances\1.21.5)
+    43.926 D | Opening URL "file:///C:/Users/ethan/Downloads/JT Minecraft Files, Mods, and Depencdencies/Prism Launcher/instances/1.21.5"
+    44.096 D | Opening path QFileInfo(C:\Users\ethan\Downloads\JT Minecraft Files, Mods, and Depencdencies\Prism Launcher\instances\1.21.5)
+    44.096 D | Opening URL "file:///C:/Users/ethan/Downloads/JT Minecraft Files, Mods, and Depencdencies/Prism Launcher/instances/1.21.5"
+    44.482 D | "1.21.5" | Component list save performed now
+    65.222 D | [launcher.instance.profile.resolve]: Loading components
+    65.222 D | "1.21.5" | Component list save is scheduled
+    65.223 D | [launcher.instance.profile.resolve]: Resolving dependencies
+    65.223 D | [launcher.instance.profile.resolve]: "Req: org.lwjgl3" Is missing and should be added at 0
+    65.223 D | [launcher.instance.profile]: "1.21.5" | Component list update/resolve task failed  Reason: "Instance has unresolved dependencies while loading/checking for launch."
+    65.255 D | "1.21.5" | Component list save performed now
+    65.285 D | [launcher.instance.profile.resolve]: Loading components
+    65.285 D | "1.21.5" | Component list save is scheduled
+    65.285 D | [launcher.instance.profile.resolve]: Resolving dependencies
+    65.285 D | [launcher.instance.profile.resolve]: "Req: org.lwjgl3" Is missing and should be added at 0
+    65.285 D | [launcher.instance.profile.resolve]: Adding "org.lwjgl3" at position 0
+    65.286 D | [launcher.instance.profile.resolve]: "1.21.5" | Remote loading is being run for "org.lwjgl3"
+    65.287 D | [launcher.instance.profile.resolve]: "Minecraft" is already loaded
+    65.663 D | [launcher.instance.profile.resolve]: Remote task 0 succeeded
+    65.664 D | [launcher.instance.profile.resolve]: Resolving dependencies
+    65.664 D | [launcher.instance.profile.resolve]: "Req: org.lwjgl3" Is met.
+    65.664 D | [launcher.instance.profile]: "1.21.5" | Component list update/resolve task succeeded
+    65.677 D | [launcher.instance.profile]: "1.21.5" | Applying "org.lwjgl3" GOOD
+    65.678 D | [launcher.instance.profile]: "1.21.5" | Applying "net.minecraft" GOOD
+    65.711 W | setGeometry: Unable to set geometry 720x216+840+680 (frame: 742x272+829+635) on QWidgetWindow/"ProgressDialogWindow" on "LQ144P1JX01". Resulting geometry: 720x306+840+590 (frame: 742x362+829+545) margins: 11, 45, 11, 11 minimum size: 480x144 MINMAXINFO(maxSize=POINT(x=0, y=0), maxpos=POINT(x=0, y=0), maxtrack=POINT(x=0, y=0), mintrack=POINT(x=742, y=272)))
+    70.658 D | "1.21.5" | Component list save performed now
+    86.641 D | Running java checker: "C:/Users/ethan/Downloads/JT Minecraft Files, Mods, and Depencdencies/Prism Launcher/java/java-runtime-delta/bin/javaw.exe" "-jar C:/Users/ethan/Downloads/JT Minecraft Files, Mods, and Depencdencies/Prism Launcher/jars/JavaCheck.jar"
+    86.867 D | STDOUT "os.arch=amd64\njava.version=21.0.3\njava.vendor=Microsoft\n"
+    86.867 W | STDERR ""
+    86.867 D | Java checker finished with status QProcess::NormalExit exit code 0
+    86.867 D | Java checker succeeded.
+    87.018 D | "1.21.5" : downloading libraries
+    87.018 D | [launcher.instance.profile]: "1.21.5" | Applying "org.lwjgl3" GOOD
+    87.018 D | [launcher.instance.profile]: "1.21.5" | Applying "net.minecraft" GOOD
+    87.020 D | Checksummed Download for: "org.lwjgl:lwjgl-freetype-natives-windows-arm64:3.3.3" storage: "org/lwjgl/lwjgl-freetype-natives-windows-arm64/3.3.3/lwjgl-freetype-natives-windows-arm64-3.3.3.jar" url: "https://libraries.minecraft.net/org/lwjgl/lwjgl-freetype/3.3.3/lwjgl-freetype-3.3.3-natives-windows-arm64.jar"
+    87.020 D | Checksummed Download for: "org.lwjgl:lwjgl-freetype-natives-windows-x86:3.3.3" storage: "org/lwjgl/lwjgl-freetype-natives-windows-x86/3.3.3/lwjgl-freetype-natives-windows-x86-3.3.3.jar" url: "https://libraries.minecraft.net/org/lwjgl/lwjgl-freetype/3.3.3/lwjgl-freetype-3.3.3-natives-windows-x86.jar"
+    87.021 D | Checksummed Download for: "org.lwjgl:lwjgl-freetype-natives-windows:3.3.3" storage: "org/lwjgl/lwjgl-freetype-natives-windows/3.3.3/lwjgl-freetype-natives-windows-3.3.3.jar" url: "https://libraries.minecraft.net/org/lwjgl/lwjgl-freetype/3.3.3/lwjgl-freetype-3.3.3-natives-windows.jar"
+    87.022 D | Checksummed Download for: "org.lwjgl:lwjgl-freetype:3.3.3" storage: "org/lwjgl/lwjgl-freetype/3.3.3/lwjgl-freetype-3.3.3.jar" url: "https://libraries.minecraft.net/org/lwjgl/lwjgl-freetype/3.3.3/lwjgl-freetype-3.3.3.jar"
+    87.023 D | Checksummed Download for: "org.lwjgl:lwjgl-glfw-natives-windows-arm64:3.3.3" storage: "org/lwjgl/lwjgl-glfw-natives-windows-arm64/3.3.3/lwjgl-glfw-natives-windows-arm64-3.3.3.jar" url: "https://libraries.minecraft.net/org/lwjgl/lwjgl-glfw/3.3.3/lwjgl-glfw-3.3.3-natives-windows-arm64.jar"
+    87.024 D | Checksummed Download for: "org.lwjgl:lwjgl-glfw-natives-windows-x86:3.3.3" storage: "org/lwjgl/lwjgl-glfw-natives-windows-x86/3.3.3/lwjgl-glfw-natives-windows-x86-3.3.3.jar" url: "https://libraries.minecraft.net/org/lwjgl/lwjgl-glfw/3.3.3/lwjgl-glfw-3.3.3-natives-windows-x86.jar"
+    87.025 D | Checksummed Download for: "org.lwjgl:lwjgl-glfw-natives-windows:3.3.3" storage: "org/lwjgl/lwjgl-glfw-natives-windows/3.3.3/lwjgl-glfw-natives-windows-3.3.3.jar" url: "https://libraries.minecraft.net/org/lwjgl/lwjgl-glfw/3.3.3/lwjgl-glfw-3.3.3-natives-windows.jar"
+    87.026 D | Checksummed Download for: "org.lwjgl:lwjgl-glfw:3.3.3" storage: "org/lwjgl/lwjgl-glfw/3.3.3/lwjgl-glfw-3.3.3.jar" url: "https://libraries.minecraft.net/org/lwjgl/lwjgl-glfw/3.3.3/lwjgl-glfw-3.3.3.jar"
+    87.026 D | Checksummed Download for: "org.lwjgl:lwjgl-jemalloc-natives-windows-arm64:3.3.3" storage: "org/lwjgl/lwjgl-jemalloc-natives-windows-arm64/3.3.3/lwjgl-jemalloc-natives-windows-arm64-3.3.3.jar" url: "https://libraries.minecraft.net/org/lwjgl/lwjgl-jemalloc/3.3.3/lwjgl-jemalloc-3.3.3-natives-windows-arm64.jar"
+    87.027 D | Checksummed Download for: "org.lwjgl:lwjgl-jemalloc-natives-windows-x86:3.3.3" storage: "org/lwjgl/lwjgl-jemalloc-natives-windows-x86/3.3.3/lwjgl-jemalloc-natives-windows-x86-3.3.3.jar" url: "https://libraries.minecraft.net/org/lwjgl/lwjgl-jemalloc/3.3.3/lwjgl-jemalloc-3.3.3-natives-windows-x86.jar"
+    87.028 D | Checksummed Download for: "org.lwjgl:lwjgl-jemalloc-natives-windows:3.3.3" storage: "org/lwjgl/lwjgl-jemalloc-natives-windows/3.3.3/lwjgl-jemalloc-natives-windows-3.3.3.jar" url: "https://libraries.minecraft.net/org/lwjgl/lwjgl-jemalloc/3.3.3/lwjgl-jemalloc-3.3.3-natives-windows.jar"
+    87.029 D | Checksummed Download for: "org.lwjgl:lwjgl-jemalloc:3.3.3" storage: "org/lwjgl/lwjgl-jemalloc/3.3.3/lwjgl-jemalloc-3.3.3.jar" url: "https://libraries.minecraft.net/org/lwjgl/lwjgl-jemalloc/3.3.3/lwjgl-jemalloc-3.3.3.jar"
+    87.031 D | Checksummed Download for: "org.lwjgl:lwjgl-natives-windows-arm64:3.3.3" storage: "org/lwjgl/lwjgl-natives-windows-arm64/3.3.3/lwjgl-natives-windows-arm64-3.3.3.jar" url: "https://libraries.minecraft.net/org/lwjgl/lwjgl/3.3.3/lwjgl-3.3.3-natives-windows-arm64.jar"
+    87.032 D | Checksummed Download for: "org.lwjgl:lwjgl-natives-windows-x86:3.3.3" storage: "org/lwjgl/lwjgl-natives-windows-x86/3.3.3/lwjgl-natives-windows-x86-3.3.3.jar" url: "https://libraries.minecraft.net/org/lwjgl/lwjgl/3.3.3/lwjgl-3.3.3-natives-windows-x86.jar"
+    87.033 D | Checksummed Download for: "org.lwjgl:lwjgl-natives-windows:3.3.3" storage: "org/lwjgl/lwjgl-natives-windows/3.3.3/lwjgl-natives-windows-3.3.3.jar" url: "https://libraries.minecraft.net/org/lwjgl/lwjgl/3.3.3/lwjgl-3.3.3-natives-windows.jar"
+    87.034 D | Checksummed Download for: "org.lwjgl:lwjgl-openal-natives-windows-arm64:3.3.3" storage: "org/lwjgl/lwjgl-openal-natives-windows-arm64/3.3.3/lwjgl-openal-natives-windows-arm64-3.3.3.jar" url: "https://libraries.minecraft.net/org/lwjgl/lwjgl-openal/3.3.3/lwjgl-openal-3.3.3-natives-windows-arm64.jar"
+    87.035 D | Checksummed Download for: "org.lwjgl:lwjgl-openal-natives-windows-x86:3.3.3" storage: "org/lwjgl/lwjgl-openal-natives-windows-x86/3.3.3/lwjgl-openal-natives-windows-x86-3.3.3.jar" url: "https://libraries.minecraft.net/org/lwjgl/lwjgl-openal/3.3.3/lwjgl-openal-3.3.3-natives-windows-x86.jar"
+    87.037 D | Checksummed Download for: "org.lwjgl:lwjgl-openal-natives-windows:3.3.3" storage: "org/lwjgl/lwjgl-openal-natives-windows/3.3.3/lwjgl-openal-natives-windows-3.3.3.jar" url: "https://libraries.minecraft.net/org/lwjgl/lwjgl-openal/3.3.3/lwjgl-openal-3.3.3-natives-windows.jar"
+    87.039 D | Checksummed Download for: "org.lwjgl:lwjgl-openal:3.3.3" storage: "org/lwjgl/lwjgl-openal/3.3.3/lwjgl-openal-3.3.3.jar" url: "https://libraries.minecraft.net/org/lwjgl/lwjgl-openal/3.3.3/lwjgl-openal-3.3.3.jar"
+    87.041 D | Checksummed Download for: "org.lwjgl:lwjgl-opengl-natives-windows-arm64:3.3.3" storage: "org/lwjgl/lwjgl-opengl-natives-windows-arm64/3.3.3/lwjgl-opengl-natives-windows-arm64-3.3.3.jar" url: "https://libraries.minecraft.net/org/lwjgl/lwjgl-opengl/3.3.3/lwjgl-opengl-3.3.3-natives-windows-arm64.jar"
+    87.044 D | Checksummed Download for: "org.lwjgl:lwjgl-opengl-natives-windows-x86:3.3.3" storage: "org/lwjgl/lwjgl-opengl-natives-windows-x86/3.3.3/lwjgl-opengl-natives-windows-x86-3.3.3.jar" url: "https://libraries.minecraft.net/org/lwjgl/lwjgl-opengl/3.3.3/lwjgl-opengl-3.3.3-natives-windows-x86.jar"
+    87.047 D | Checksummed Download for: "org.lwjgl:lwjgl-opengl-natives-windows:3.3.3" storage: "org/lwjgl/lwjgl-opengl-natives-windows/3.3.3/lwjgl-opengl-natives-windows-3.3.3.jar" url: "https://libraries.minecraft.net/org/lwjgl/lwjgl-opengl/3.3.3/lwjgl-opengl-3.3.3-natives-windows.jar"
+    87.049 D | Checksummed Download for: "org.lwjgl:lwjgl-opengl:3.3.3" storage: "org/lwjgl/lwjgl-opengl/3.3.3/lwjgl-opengl-3.3.3.jar" url: "https://libraries.minecraft.net/org/lwjgl/lwjgl-opengl/3.3.3/lwjgl-opengl-3.3.3.jar"
+    87.052 D | Checksummed Download for: "org.lwjgl:lwjgl-stb-natives-windows-arm64:3.3.3" storage: "org/lwjgl/lwjgl-stb-natives-windows-arm64/3.3.3/lwjgl-stb-natives-windows-arm64-3.3.3.jar" url: "https://libraries.minecraft.net/org/lwjgl/lwjgl-stb/3.3.3/lwjgl-stb-3.3.3-natives-windows-arm64.jar"
+    87.055 D | Checksummed Download for: "org.lwjgl:lwjgl-stb-natives-windows-x86:3.3.3" storage: "org/lwjgl/lwjgl-stb-natives-windows-x86/3.3.3/lwjgl-stb-natives-windows-x86-3.3.3.jar" url: "https://libraries.minecraft.net/org/lwjgl/lwjgl-stb/3.3.3/lwjgl-stb-3.3.3-natives-windows-x86.jar"
+    87.057 D | Checksummed Download for: "org.lwjgl:lwjgl-stb-natives-windows:3.3.3" storage: "org/lwjgl/lwjgl-stb-natives-windows/3.3.3/lwjgl-stb-natives-windows-3.3.3.jar" url: "https://libraries.minecraft.net/org/lwjgl/lwjgl-stb/3.3.3/lwjgl-stb-3.3.3-natives-windows.jar"
+    87.060 D | Checksummed Download for: "org.lwjgl:lwjgl-stb:3.3.3" storage: "org/lwjgl/lwjgl-stb/3.3.3/lwjgl-stb-3.3.3.jar" url: "https://libraries.minecraft.net/org/lwjgl/lwjgl-stb/3.3.3/lwjgl-stb-3.3.3.jar"
+    87.062 D | Checksummed Download for: "org.lwjgl:lwjgl-tinyfd-natives-windows-arm64:3.3.3" storage: "org/lwjgl/lwjgl-tinyfd-natives-windows-arm64/3.3.3/lwjgl-tinyfd-natives-windows-arm64-3.3.3.jar" url: "https://libraries.minecraft.net/org/lwjgl/lwjgl-tinyfd/3.3.3/lwjgl-tinyfd-3.3.3-natives-windows-arm64.jar"
+    87.064 D | Checksummed Download for: "org.lwjgl:lwjgl-tinyfd-natives-windows-x86:3.3.3" storage: "org/lwjgl/lwjgl-tinyfd-natives-windows-x86/3.3.3/lwjgl-tinyfd-natives-windows-x86-3.3.3.jar" url: "https://libraries.minecraft.net/org/lwjgl/lwjgl-tinyfd/3.3.3/lwjgl-tinyfd-3.3.3-natives-windows-x86.jar"
+    87.066 D | Checksummed Download for: "org.lwjgl:lwjgl-tinyfd-natives-windows:3.3.3" storage: "org/lwjgl/lwjgl-tinyfd-natives-windows/3.3.3/lwjgl-tinyfd-natives-windows-3.3.3.jar" url: "https://libraries.minecraft.net/org/lwjgl/lwjgl-tinyfd/3.3.3/lwjgl-tinyfd-3.3.3-natives-windows.jar"
+    87.068 D | Checksummed Download for: "org.lwjgl:lwjgl-tinyfd:3.3.3" storage: "org/lwjgl/lwjgl-tinyfd/3.3.3/lwjgl-tinyfd-3.3.3.jar" url: "https://libraries.minecraft.net/org/lwjgl/lwjgl-tinyfd/3.3.3/lwjgl-tinyfd-3.3.3.jar"
+    87.070 D | Checksummed Download for: "org.lwjgl:lwjgl:3.3.3" storage: "org/lwjgl/lwjgl/3.3.3/lwjgl-3.3.3.jar" url: "https://libraries.minecraft.net/org/lwjgl/lwjgl/3.3.3/lwjgl-3.3.3.jar"
+    87.072 D | Checksummed Download for: "com.fasterxml.jackson.core:jackson-annotations:2.13.4" storage: "com/fasterxml/jackson/core/jackson-annotations/2.13.4/jackson-annotations-2.13.4.jar" url: "https://libraries.minecraft.net/com/fasterxml/jackson/core/jackson-annotations/2.13.4/jackson-annotations-2.13.4.jar"
+    87.074 D | Checksummed Download for: "com.fasterxml.jackson.core:jackson-core:2.13.4" storage: "com/fasterxml/jackson/core/jackson-core/2.13.4/jackson-core-2.13.4.jar" url: "https://libraries.minecraft.net/com/fasterxml/jackson/core/jackson-core/2.13.4/jackson-core-2.13.4.jar"
+    87.076 D | Checksummed Download for: "com.fasterxml.jackson.core:jackson-databind:2.13.4.2" storage: "com/fasterxml/jackson/core/jackson-databind/2.13.4.2/jackson-databind-2.13.4.2.jar" url: "https://libraries.minecraft.net/com/fasterxml/jackson/core/jackson-databind/2.13.4.2/jackson-databind-2.13.4.2.jar"
+    87.078 D | Checksummed Download for: "com.github.oshi:oshi-core:6.6.5" storage: "com/github/oshi/oshi-core/6.6.5/oshi-core-6.6.5.jar" url: "https://libraries.minecraft.net/com/github/oshi/oshi-core/6.6.5/oshi-core-6.6.5.jar"
+    87.079 D | Checksummed Download for: "com.github.stephenc.jcip:jcip-annotations:1.0-1" storage: "com/github/stephenc/jcip/jcip-annotations/1.0-1/jcip-annotations-1.0-1.jar" url: "https://libraries.minecraft.net/com/github/stephenc/jcip/jcip-annotations/1.0-1/jcip-annotations-1.0-1.jar"
+    87.081 D | Checksummed Download for: "com.google.code.gson:gson:2.11.0" storage: "com/google/code/gson/gson/2.11.0/gson-2.11.0.jar" url: "https://libraries.minecraft.net/com/google/code/gson/gson/2.11.0/gson-2.11.0.jar"
+    87.082 D | Checksummed Download for: "com.google.guava:failureaccess:1.0.2" storage: "com/google/guava/failureaccess/1.0.2/failureaccess-1.0.2.jar" url: "https://libraries.minecraft.net/com/google/guava/failureaccess/1.0.2/failureaccess-1.0.2.jar"
+    87.083 D | Checksummed Download for: "com.google.guava:guava:33.3.1-jre" storage: "com/google/guava/guava/33.3.1-jre/guava-33.3.1-jre.jar" url: "https://libraries.minecraft.net/com/google/guava/guava/33.3.1-jre/guava-33.3.1-jre.jar"
+    87.084 D | Checksummed Download for: "com.ibm.icu:icu4j:76.1" storage: "com/ibm/icu/icu4j/76.1/icu4j-76.1.jar" url: "https://libraries.minecraft.net/com/ibm/icu/icu4j/76.1/icu4j-76.1.jar"
+    87.085 D | Checksummed Download for: "com.microsoft.azure:msal4j:1.17.2" storage: "com/microsoft/azure/msal4j/1.17.2/msal4j-1.17.2.jar" url: "https://libraries.minecraft.net/com/microsoft/azure/msal4j/1.17.2/msal4j-1.17.2.jar"
+    87.086 D | Checksummed Download for: "com.mojang:authlib:6.0.58" storage: "com/mojang/authlib/6.0.58/authlib-6.0.58.jar" url: "https://libraries.minecraft.net/com/mojang/authlib/6.0.58/authlib-6.0.58.jar"
+    87.087 D | Checksummed Download for: "com.mojang:blocklist:1.0.10" storage: "com/mojang/blocklist/1.0.10/blocklist-1.0.10.jar" url: "https://libraries.minecraft.net/com/mojang/blocklist/1.0.10/blocklist-1.0.10.jar"
+    87.088 D | Checksummed Download for: "com.mojang:brigadier:1.3.10" storage: "com/mojang/brigadier/1.3.10/brigadier-1.3.10.jar" url: "https://libraries.minecraft.net/com/mojang/brigadier/1.3.10/brigadier-1.3.10.jar"
+    87.089 D | Checksummed Download for: "com.mojang:datafixerupper:8.0.16" storage: "com/mojang/datafixerupper/8.0.16/datafixerupper-8.0.16.jar" url: "https://libraries.minecraft.net/com/mojang/datafixerupper/8.0.16/datafixerupper-8.0.16.jar"
+    87.090 D | Checksummed Download for: "com.mojang:jtracy:1.0.29" storage: "com/mojang/jtracy/1.0.29/jtracy-1.0.29.jar" url: "https://libraries.minecraft.net/com/mojang/jtracy/1.0.29/jtracy-1.0.29.jar"
+    87.091 D | Checksummed Download for: "com.mojang:jtracy-natives-windows:1.0.29" storage: "com/mojang/jtracy-natives-windows/1.0.29/jtracy-natives-windows-1.0.29.jar" url: "https://libraries.minecraft.net/com/mojang/jtracy/1.0.29/jtracy-1.0.29-natives-windows.jar"
+    87.092 D | Checksummed Download for: "com.mojang:logging:1.5.10" storage: "com/mojang/logging/1.5.10/logging-1.5.10.jar" url: "https://libraries.minecraft.net/com/mojang/logging/1.5.10/logging-1.5.10.jar"
+    87.093 D | Checksummed Download for: "com.mojang:patchy:2.2.10" storage: "com/mojang/patchy/2.2.10/patchy-2.2.10.jar" url: "https://libraries.minecraft.net/com/mojang/patchy/2.2.10/patchy-2.2.10.jar"
+    87.093 D | Checksummed Download for: "com.mojang:text2speech:1.18.11" storage: "com/mojang/text2speech/1.18.11/text2speech-1.18.11.jar" url: "https://libraries.minecraft.net/com/mojang/text2speech/1.18.11/text2speech-1.18.11.jar"
+    87.094 D | Checksummed Download for: "com.nimbusds:content-type:2.3" storage: "com/nimbusds/content-type/2.3/content-type-2.3.jar" url: "https://libraries.minecraft.net/com/nimbusds/content-type/2.3/content-type-2.3.jar"
+    87.095 D | Checksummed Download for: "com.nimbusds:lang-tag:1.7" storage: "com/nimbusds/lang-tag/1.7/lang-tag-1.7.jar" url: "https://libraries.minecraft.net/com/nimbusds/lang-tag/1.7/lang-tag-1.7.jar"
+    87.096 D | Checksummed Download for: "com.nimbusds:nimbus-jose-jwt:9.40" storage: "com/nimbusds/nimbus-jose-jwt/9.40/nimbus-jose-jwt-9.40.jar" url: "https://libraries.minecraft.net/com/nimbusds/nimbus-jose-jwt/9.40/nimbus-jose-jwt-9.40.jar"
+    87.096 D | Checksummed Download for: "com.nimbusds:oauth2-oidc-sdk:11.18" storage: "com/nimbusds/oauth2-oidc-sdk/11.18/oauth2-oidc-sdk-11.18.jar" url: "https://libraries.minecraft.net/com/nimbusds/oauth2-oidc-sdk/11.18/oauth2-oidc-sdk-11.18.jar"
+    87.097 D | Checksummed Download for: "commons-codec:commons-codec:1.17.1" storage: "commons-codec/commons-codec/1.17.1/commons-codec-1.17.1.jar" url: "https://libraries.minecraft.net/commons-codec/commons-codec/1.17.1/commons-codec-1.17.1.jar"
+    87.098 D | Checksummed Download for: "commons-io:commons-io:2.17.0" storage: "commons-io/commons-io/2.17.0/commons-io-2.17.0.jar" url: "https://libraries.minecraft.net/commons-io/commons-io/2.17.0/commons-io-2.17.0.jar"
+    87.099 D | Checksummed Download for: "commons-logging:commons-logging:1.3.4" storage: "commons-logging/commons-logging/1.3.4/commons-logging-1.3.4.jar" url: "https://libraries.minecraft.net/commons-logging/commons-logging/1.3.4/commons-logging-1.3.4.jar"
+    87.099 D | Checksummed Download for: "io.netty:netty-buffer:4.1.118.Final" storage: "io/netty/netty-buffer/4.1.118.Final/netty-buffer-4.1.118.Final.jar" url: "https://libraries.minecraft.net/io/netty/netty-buffer/4.1.118.Final/netty-buffer-4.1.118.Final.jar"
+    87.100 D | Checksummed Download for: "io.netty:netty-codec:4.1.118.Final" storage: "io/netty/netty-codec/4.1.118.Final/netty-codec-4.1.118.Final.jar" url: "https://libraries.minecraft.net/io/netty/netty-codec/4.1.118.Final/netty-codec-4.1.118.Final.jar"
+    87.101 D | Checksummed Download for: "io.netty:netty-common:4.1.118.Final" storage: "io/netty/netty-common/4.1.118.Final/netty-common-4.1.118.Final.jar" url: "https://libraries.minecraft.net/io/netty/netty-common/4.1.118.Final/netty-common-4.1.118.Final.jar"
+    87.102 D | Checksummed Download for: "io.netty:netty-handler:4.1.118.Final" storage: "io/netty/netty-handler/4.1.118.Final/netty-handler-4.1.118.Final.jar" url: "https://libraries.minecraft.net/io/netty/netty-handler/4.1.118.Final/netty-handler-4.1.118.Final.jar"
+    87.102 D | Checksummed Download for: "io.netty:netty-resolver:4.1.118.Final" storage: "io/netty/netty-resolver/4.1.118.Final/netty-resolver-4.1.118.Final.jar" url: "https://libraries.minecraft.net/io/netty/netty-resolver/4.1.118.Final/netty-resolver-4.1.118.Final.jar"
+    87.103 D | Checksummed Download for: "io.netty:netty-transport-classes-epoll:4.1.118.Final" storage: "io/netty/netty-transport-classes-epoll/4.1.118.Final/netty-transport-classes-epoll-4.1.118.Final.jar" url: "https://libraries.minecraft.net/io/netty/netty-transport-classes-epoll/4.1.118.Final/netty-transport-classes-epoll-4.1.118.Final.jar"
+    87.104 D | Checksummed Download for: "io.netty:netty-transport-native-unix-common:4.1.118.Final" storage: "io/netty/netty-transport-native-unix-common/4.1.118.Final/netty-transport-native-unix-common-4.1.118.Final.jar" url: "https://libraries.minecraft.net/io/netty/netty-transport-native-unix-common/4.1.118.Final/netty-transport-native-unix-common-4.1.118.Final.jar"
+    87.105 D | Checksummed Download for: "io.netty:netty-transport:4.1.118.Final" storage: "io/netty/netty-transport/4.1.118.Final/netty-transport-4.1.118.Final.jar" url: "https://libraries.minecraft.net/io/netty/netty-transport/4.1.118.Final/netty-transport-4.1.118.Final.jar"
+    87.106 D | Checksummed Download for: "it.unimi.dsi:fastutil:8.5.15" storage: "it/unimi/dsi/fastutil/8.5.15/fastutil-8.5.15.jar" url: "https://libraries.minecraft.net/it/unimi/dsi/fastutil/8.5.15/fastutil-8.5.15.jar"
+    87.107 D | Checksummed Download for: "net.java.dev.jna:jna-platform:5.15.0" storage: "net/java/dev/jna/jna-platform/5.15.0/jna-platform-5.15.0.jar" url: "https://libraries.minecraft.net/net/java/dev/jna/jna-platform/5.15.0/jna-platform-5.15.0.jar"
+    87.108 D | Checksummed Download for: "net.java.dev.jna:jna:5.15.0" storage: "net/java/dev/jna/jna/5.15.0/jna-5.15.0.jar" url: "https://libraries.minecraft.net/net/java/dev/jna/jna/5.15.0/jna-5.15.0.jar"
+    87.109 D | Checksummed Download for: "net.minidev:accessors-smart:2.5.1" storage: "net/minidev/accessors-smart/2.5.1/accessors-smart-2.5.1.jar" url: "https://libraries.minecraft.net/net/minidev/accessors-smart/2.5.1/accessors-smart-2.5.1.jar"
+    87.110 D | Checksummed Download for: "net.minidev:json-smart:2.5.1" storage: "net/minidev/json-smart/2.5.1/json-smart-2.5.1.jar" url: "https://libraries.minecraft.net/net/minidev/json-smart/2.5.1/json-smart-2.5.1.jar"
+    87.111 D | Checksummed Download for: "net.sf.jopt-simple:jopt-simple:5.0.4" storage: "net/sf/jopt-simple/jopt-simple/5.0.4/jopt-simple-5.0.4.jar" url: "https://libraries.minecraft.net/net/sf/jopt-simple/jopt-simple/5.0.4/jopt-simple-5.0.4.jar"
+    87.112 D | Checksummed Download for: "org.apache.commons:commons-compress:1.27.1" storage: "org/apache/commons/commons-compress/1.27.1/commons-compress-1.27.1.jar" url: "https://libraries.minecraft.net/org/apache/commons/commons-compress/1.27.1/commons-compress-1.27.1.jar"
+    87.113 D | Checksummed Download for: "org.apache.commons:commons-lang3:3.17.0" storage: "org/apache/commons/commons-lang3/3.17.0/commons-lang3-3.17.0.jar" url: "https://libraries.minecraft.net/org/apache/commons/commons-lang3/3.17.0/commons-lang3-3.17.0.jar"
+    87.113 D | Checksummed Download for: "org.apache.httpcomponents:httpclient:4.5.14" storage: "org/apache/httpcomponents/httpclient/4.5.14/httpclient-4.5.14.jar" url: "https://libraries.minecraft.net/org/apache/httpcomponents/httpclient/4.5.14/httpclient-4.5.14.jar"
+    87.114 D | Checksummed Download for: "org.apache.httpcomponents:httpcore:4.4.16" storage: "org/apache/httpcomponents/httpcore/4.4.16/httpcore-4.4.16.jar" url: "https://libraries.minecraft.net/org/apache/httpcomponents/httpcore/4.4.16/httpcore-4.4.16.jar"
+    87.115 D | Checksummed Download for: "org.apache.logging.log4j:log4j-api:2.24.1" storage: "org/apache/logging/log4j/log4j-api/2.24.1/log4j-api-2.24.1.jar" url: "https://libraries.minecraft.net/org/apache/logging/log4j/log4j-api/2.24.1/log4j-api-2.24.1.jar"
+    87.116 D | Checksummed Download for: "org.apache.logging.log4j:log4j-core:2.24.1" storage: "org/apache/logging/log4j/log4j-core/2.24.1/log4j-core-2.24.1.jar" url: "https://libraries.minecraft.net/org/apache/logging/log4j/log4j-core/2.24.1/log4j-core-2.24.1.jar"
+    87.117 D | Checksummed Download for: "org.apache.logging.log4j:log4j-slf4j2-impl:2.24.1" storage: "org/apache/logging/log4j/log4j-slf4j2-impl/2.24.1/log4j-slf4j2-impl-2.24.1.jar" url: "https://libraries.minecraft.net/org/apache/logging/log4j/log4j-slf4j2-impl/2.24.1/log4j-slf4j2-impl-2.24.1.jar"
+    87.118 D | Checksummed Download for: "org.jcraft:jorbis:0.0.17" storage: "org/jcraft/jorbis/0.0.17/jorbis-0.0.17.jar" url: "https://libraries.minecraft.net/org/jcraft/jorbis/0.0.17/jorbis-0.0.17.jar"
+    87.119 D | Checksummed Download for: "org.joml:joml:1.10.8" storage: "org/joml/joml/1.10.8/joml-1.10.8.jar" url: "https://libraries.minecraft.net/org/joml/joml/1.10.8/joml-1.10.8.jar"
+    87.120 D | Checksummed Download for: "org.lz4:lz4-java:1.8.0" storage: "org/lz4/lz4-java/1.8.0/lz4-java-1.8.0.jar" url: "https://libraries.minecraft.net/org/lz4/lz4-java/1.8.0/lz4-java-1.8.0.jar"
+    87.120 D | Checksummed Download for: "org.ow2.asm:asm:9.6" storage: "org/ow2/asm/asm/9.6/asm-9.6.jar" url: "https://libraries.minecraft.net/org/ow2/asm/asm/9.6/asm-9.6.jar"
+    87.121 D | Checksummed Download for: "org.slf4j:slf4j-api:2.0.16" storage: "org/slf4j/slf4j-api/2.0.16/slf4j-api-2.0.16.jar" url: "https://libraries.minecraft.net/org/slf4j/slf4j-api/2.0.16/slf4j-api-2.0.16.jar"
+    87.122 D | Checksummed Download for: "com.mojang:minecraft:1.21.5:client" storage: "com/mojang/minecraft/1.21.5/minecraft-1.21.5-client.jar" url: "https://piston-data.mojang.com/v1/objects/b88808bbb3da8d9f453694b5d8f74a3396f1a533/client.jar"
+    87.144 W | setGeometry: Unable to set geometry 720x207+840+692 (frame: 742x263+829+647) on QWidgetWindow/"ProgressDialogWindow" on "LQ144P1JX01". Resulting geometry: 720x306+840+593 (frame: 742x362+829+548) margins: 11, 45, 11, 11 minimum size: 480x138 MINMAXINFO(maxSize=POINT(x=0, y=0), maxpos=POINT(x=0, y=0), maxtrack=POINT(x=0, y=0), mintrack=POINT(x=742, y=263)))
+    92.543 D | Asset index SHA1: "ebd68716c65b093dd8135b433d8b079d63ca29dd"
+    92.543 D | "1.21.5" : Starting asset index download
+    92.557 W | setGeometry: Unable to set geometry 720x207+840+692 (frame: 742x263+829+647) on QWidgetWindow/"ProgressDialogWindow" on "LQ144P1JX01". Resulting geometry: 720x306+840+593 (frame: 742x362+829+548) margins: 11, 45, 11, 11 minimum size: 480x138 MINMAXINFO(maxSize=POINT(x=0, y=0), maxpos=POINT(x=0, y=0), maxtrack=POINT(x=0, y=0), mintrack=POINT(x=742, y=263)))
+    92.680 D | "1.21.5" : Finished asset index download
+   122.676 D | [launcher.task.net.metacache.http]: Saving metacache with 14 entries
+   222.519 D | reconstructAssets "assets" "assets/indexes" "assets/objects" "assets/virtual" "assets/virtual/24"
+   222.881 D | "-XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump -Xms512m -Xmx4096m -Duser.language=en -Djava.library.path=C:/Users/ethan/Downloads/JT Minecraft Files, Mods, and Depencdencies/Prism Launcher/instances/1.21.5/natives -cp C:/Users/ethan/Downloads/JT Minecraft Files, Mods, and Depencdencies/Prism Launcher/jars/NewLaunch.jar;C:/Users/ethan/Downloads/JT Minecraft Files, Mods, and Depencdencies/Prism Launcher/libraries/org/lwjgl/lwjgl-freetype-natives-windows-arm64/3.3.3/lwjgl-freetype-natives-windows-arm64-3.3.3.jar;C:/Users/ethan/Downloads/JT Minecraft Files, Mods, and Depencdencies/Prism Launcher/libraries/org/lwjgl/lwjgl-freetype-natives-windows-x86/3.3.3/lwjgl-freetype-natives-windows-x86-3.3.3.jar;C:/Users/ethan/Downloads/JT Minecraft Files, Mods, and Depencdencies/Prism Launcher/libraries/org/lwjgl/lwjgl-freetype-natives-windows/3.3.3/lwjgl-freetype-natives-windows-3.3.3.jar;C:/Users/ethan/Downloads/JT Minecraft Files, Mods, and Depencdencies/Prism Launcher/libraries/org/lwjgl/lwjgl-freetype/3.3.3/lwjgl-freetype-3.3.3.jar;C:/Users/ethan/Downloads/JT Minecraft Files, Mods, and Depencdencies/Prism Launcher/libraries/org/lwjgl/lwjgl-glfw-natives-windows-arm64/3.3.3/lwjgl-glfw-natives-windows-arm64-3.3.3.jar;C:/Users/ethan/Downloads/JT Minecraft Files, Mods, and Depencdencies/Prism Launcher/libraries/org/lwjgl/lwjgl-glfw-natives-windows-x86/3.3.3/lwjgl-glfw-natives-windows-x86-3.3.3.jar;C:/Users/ethan/Downloads/JT Minecraft Files, Mods, and Depencdencies/Prism Launcher/libraries/org/lwjgl/lwjgl-glfw-natives-windows/3.3.3/lwjgl-glfw-natives-windows-3.3.3.jar;C:/Users/ethan/Downloads/JT Minecraft Files, Mods, and Depencdencies/Prism Launcher/libraries/org/lwjgl/lwjgl-glfw/3.3.3/lwjgl-glfw-3.3.3.jar;C:/Users/ethan/Downloads/JT Minecraft Files, Mods, and Depencdencies/Prism Launcher/libraries/org/lwjgl/lwjgl-jemalloc-natives-windows-arm64/3.3.3/lwjgl-jemalloc-natives-windows-arm64-3.3.3.jar;C:/Users/ethan/Downloads/JT Minecraft Files, Mods, and Depencdencies/Prism Launcher/libraries/org/lwjgl/lwjgl-jemalloc-natives-windows-x86/3.3.3/lwjgl-jemalloc-natives-windows-x86-3.3.3.jar;C:/Users/ethan/Downloads/JT Minecraft Files, Mods, and Depencdencies/Prism Launcher/libraries/org/lwjgl/lwjgl-jemalloc-natives-windows/3.3.3/lwjgl-jemalloc-natives-windows-3.3.3.jar;C:/Users/ethan/Downloads/JT Minecraft Files, Mods, and Depencdencies/Prism Launcher/libraries/org/lwjgl/lwjgl-jemalloc/3.3.3/lwjgl-jemalloc-3.3.3.jar;C:/Users/ethan/Downloads/JT Minecraft Files, Mods, and Depencdencies/Prism Launcher/libraries/org/lwjgl/lwjgl-natives-windows-arm64/3.3.3/lwjgl-natives-windows-arm64-3.3.3.jar;C:/Users/ethan/Downloads/JT Minecraft Files, Mods, and Depencdencies/Prism Launcher/libraries/org/lwjgl/lwjgl-natives-windows-x86/3.3.3/lwjgl-natives-windows-x86-3.3.3.jar;C:/Users/ethan/Downloads/JT Minecraft Files, Mods, and Depencdencies/Prism Launcher/libraries/org/lwjgl/lwjgl-natives-windows/3.3.3/lwjgl-natives-windows-3.3.3.jar;C:/Users/ethan/Downloads/JT Minecraft Files, Mods, and Depencdencies/Prism Launcher/libraries/org/lwjgl/lwjgl-openal-natives-windows-arm64/3.3.3/lwjgl-openal-natives-windows-arm64-3.3.3.jar;C:/Users/ethan/Downloads/JT Minecraft Files, Mods, and Depencdencies/Prism Launcher/libraries/org/lwjgl/lwjgl-openal-natives-windows-x86/3.3.3/lwjgl-openal-natives-windows-x86-3.3.3.jar;C:/Users/ethan/Downloads/JT Minecraft Files, Mods, and Depencdencies/Prism Launcher/libraries/org/lwjgl/lwjgl-openal-natives-windows/3.3.3/lwjgl-openal-natives-windows-3.3.3.jar;C:/Users/ethan/Downloads/JT Minecraft Files, Mods, and Depencdencies/Prism Launcher/libraries/org/lwjgl/lwjgl-openal/3.3.3/lwjgl-openal-3.3.3.jar;C:/Users/ethan/Downloads/JT Minecraft Files, Mods, and Depencdencies/Prism Launcher/libraries/org/lwjgl/lwjgl-opengl-natives-windows-arm64/3.3.3/lwjgl-opengl-natives-windows-arm64-3.3.3.jar;C:/Users/ethan/Downloads/JT Minecraft Files, Mods, and Depencdencies/Prism Launcher/libraries/org/lwjgl/lwjgl-opengl-natives-windows-x86/3.3.3/lwjgl-opengl-natives-windows-x86-3.3.3.jar;C:/Users/ethan/Downloads/JT Minecraft Files, Mods, and Depencdencies/Prism Launcher/libraries/org/lwjgl/lwjgl-opengl-natives-windows/3.3.3/lwjgl-opengl-natives-windows-3.3.3.jar;C:/Users/ethan/Downloads/JT Minecraft Files, Mods, and Depencdencies/Prism Launcher/libraries/org/lwjgl/lwjgl-opengl/3.3.3/lwjgl-opengl-3.3.3.jar;C:/Users/ethan/Downloads/JT Minecraft Files, Mods, and Depencdencies/Prism Launcher/libraries/org/lwjgl/lwjgl-stb-natives-windows-arm64/3.3.3/lwjgl-stb-natives-windows-arm64-3.3.3.jar;C:/Users/ethan/Downloads/JT Minecraft Files, Mods, and Depencdencies/Prism Launcher/libraries/org/lwjgl/lwjgl-stb-natives-windows-x86/3.3.3/lwjgl-stb-natives-windows-x86-3.3.3.jar;C:/Users/ethan/Downloads/JT Minecraft Files, Mods, and Depencdencies/Prism Launcher/libraries/org/lwjgl/lwjgl-stb-natives-windows/3.3.3/lwjgl-stb-natives-windows-3.3.3.jar;C:/Users/ethan/Downloads/JT Minecraft Files, Mods, and Depencdencies/Prism Launcher/libraries/org/lwjgl/lwjgl-stb/3.3.3/lwjgl-stb-3.3.3.jar;C:/Users/ethan/Downloads/JT Minecraft Files, Mods, and Depencdencies/Prism Launcher/libraries/org/lwjgl/lwjgl-tinyfd-natives-windows-arm64/3.3.3/lwjgl-tinyfd-natives-windows-arm64-3.3.3.jar;C:/Users/ethan/Downloads/JT Minecraft Files, Mods, and Depencdencies/Prism Launcher/libraries/org/lwjgl/lwjgl-tinyfd-natives-windows-x86/3.3.3/lwjgl-tinyfd-natives-windows-x86-3.3.3.jar;C:/Users/ethan/Downloads/JT Minecraft Files, Mods, and Depencdencies/Prism Launcher/libraries/org/lwjgl/lwjgl-tinyfd-natives-windows/3.3.3/lwjgl-tinyfd-natives-windows-3.3.3.jar;C:/Users/ethan/Downloads/JT Minecraft Files, Mods, and Depencdencies/Prism Launcher/libraries/org/lwjgl/lwjgl-tinyfd/3.3.3/lwjgl-tinyfd-3.3.3.jar;C:/Users/ethan/Downloads/JT Minecraft Files, Mods, and Depencdencies/Prism Launcher/libraries/org/lwjgl/lwjgl/3.3.3/lwjgl-3.3.3.jar;C:/Users/ethan/Downloads/JT Minecraft Files, Mods, and Depencdencies/Prism Launcher/libraries/com/fasterxml/jackson/core/jackson-annotations/2.13.4/jackson-annotations-2.13.4.jar;C:/Users/ethan/Downloads/JT Minecraft Files, Mods, and Depencdencies/Prism Launcher/libraries/com/fasterxml/jackson/core/jackson-core/2.13.4/jackson-core-2.13.4.jar;C:/Users/ethan/Downloads/JT Minecraft Files, Mods, and Depencdencies/Prism Launcher/libraries/com/fasterxml/jackson/core/jackson-databind/2.13.4.2/jackson-databind-2.13.4.2.jar;C:/Users/ethan/Downloads/JT Minecraft Files, Mods, and Depencdencies/Prism Launcher/libraries/com/github/oshi/oshi-core/6.6.5/oshi-core-6.6.5.jar;C:/Users/ethan/Downloads/JT Minecraft Files, Mods, and Depencdencies/Prism Launcher/libraries/com/github/stephenc/jcip/jcip-annotations/1.0-1/jcip-annotations-1.0-1.jar;C:/Users/ethan/Downloads/JT Minecraft Files, Mods, and Depencdencies/Prism Launcher/libraries/com/google/code/gson/gson/2.11.0/gson-2.11.0.jar;C:/Users/ethan/Downloads/JT Minecraft Files, Mods, and Depencdencies/Prism Launcher/libraries/com/google/guava/failureaccess/1.0.2/failureaccess-1.0.2.jar;C:/Users/ethan/Downloads/JT Minecraft Files, Mods, and Depencdencies/Prism Launcher/libraries/com/google/guava/guava/33.3.1-jre/guava-33.3.1-jre.jar;C:/Users/ethan/Downloads/JT Minecraft Files, Mods, and Depencdencies/Prism Launcher/libraries/com/ibm/icu/icu4j/76.1/icu4j-76.1.jar;C:/Users/ethan/Downloads/JT Minecraft Files, Mods, and Depencdencies/Prism Launcher/libraries/com/microsoft/azure/msal4j/1.17.2/msal4j-1.17.2.jar;C:/Users/ethan/Downloads/JT Minecraft Files, Mods, and Depencdencies/Prism Launcher/libraries/com/mojang/authlib/6.0.58/authlib-6.0.58.jar;C:/Users/ethan/Downloads/JT Minecraft Files, Mods, and Depencdencies/Prism Launcher/libraries/com/mojang/blocklist/1.0.10/blocklist-1.0.10.jar;C:/Users/ethan/Downloads/JT Minecraft Files, Mods, and Depencdencies/Prism Launcher/libraries/com/mojang/brigadier/1.3.10/brigadier-1.3.10.jar;C:/Users/ethan/Downloads/JT Minecraft Files, Mods, and Depencdencies/Prism Launcher/libraries/com/mojang/datafixerupper/8.0.16/datafixerupper-8.0.16.jar;C:/Users/ethan/Downloads/JT Minecraft Files, Mods, and Depencdencies/Prism Launcher/libraries/com/mojang/jtracy/1.0.29/jtracy-1.0.29.jar;C:/Users/ethan/Downloads/JT Minecraft Files, Mods, and Depencdencies/Prism Launcher/libraries/com/mojang/jtracy-natives-windows/1.0.29/jtracy-natives-windows-1.0.29.jar;C:/Users/ethan/Downloads/JT Minecraft Files, Mods, and Depencdencies/Prism Launcher/libraries/com/mojang/logging/1.5.10/logging-1.5.10.jar;C:/Users/ethan/Downloads/JT Minecraft Files, Mods, and Depencdencies/Prism Launcher/libraries/com/mojang/patchy/2.2.10/patchy-2.2.10.jar;C:/Users/ethan/Downloads/JT Minecraft Files, Mods, and Depencdencies/Prism Launcher/libraries/com/mojang/text2speech/1.18.11/text2speech-1.18.11.jar;C:/Users/ethan/Downloads/JT Minecraft Files, Mods, and Depencdencies/Prism Launcher/libraries/com/nimbusds/content-type/2.3/content-type-2.3.jar;C:/Users/ethan/Downloads/JT Minecraft Files, Mods, and Depencdencies/Prism Launcher/libraries/com/nimbusds/lang-tag/1.7/lang-tag-1.7.jar;C:/Users/ethan/Downloads/JT Minecraft Files, Mods, and Depencdencies/Prism Launcher/libraries/com/nimbusds/nimbus-jose-jwt/9.40/nimbus-jose-jwt-9.40.jar;C:/Users/ethan/Downloads/JT Minecraft Files, Mods, and Depencdencies/Prism Launcher/libraries/com/nimbusds/oauth2-oidc-sdk/11.18/oauth2-oidc-sdk-11.18.jar;C:/Users/ethan/Downloads/JT Minecraft Files, Mods, and Depencdencies/Prism Launcher/libraries/commons-codec/commons-codec/1.17.1/commons-codec-1.17.1.jar;C:/Users/ethan/Downloads/JT Minecraft Files, Mods, and Depencdencies/Prism Launcher/libraries/commons-io/commons-io/2.17.0/commons-io-2.17.0.jar;C:/Users/ethan/Downloads/JT Minecraft Files, Mods, and Depencdencies/Prism Launcher/libraries/commons-logging/commons-logging/1.3.4/commons-logging-1.3.4.jar;C:/Users/ethan/Downloads/JT Minecraft Files, Mods, and Depencdencies/Prism Launcher/libraries/io/netty/netty-buffer/4.1.118.Final/netty-buffer-4.1.118.Final.jar;C:/Users/ethan/Downloads/JT Minecraft Files, Mods, and Depencdencies/Prism Launcher/libraries/io/netty/netty-codec/4.1.118.Final/netty-codec-4.1.118.Final.jar;C:/Users/ethan/Downloads/JT Minecraft Files, Mods, and Depencdencies/Prism Launcher/libraries/io/netty/netty-common/4.1.118.Final/netty-common-4.1.118.Final.jar;C:/Users/ethan/Downloads/JT Minecraft Files, Mods, and Depencdencies/Prism Launcher/libraries/io/netty/netty-handler/4.1.118.Final/netty-handler-4.1.118.Final.jar;C:/Users/ethan/Downloads/JT Minecraft Files, Mods, and Depencdencies/Prism Launcher/libraries/io/netty/netty-resolver/4.1.118.Final/netty-resolver-4.1.118.Final.jar;C:/Users/ethan/Downloads/JT Minecraft Files, Mods, and Depencdencies/Prism Launcher/libraries/io/netty/netty-transport-classes-epoll/4.1.118.Final/netty-transport-classes-epoll-4.1.118.Final.jar;C:/Users/ethan/Downloads/JT Minecraft Files, Mods, and Depencdencies/Prism Launcher/libraries/io/netty/netty-transport-native-unix-common/4.1.118.Final/netty-transport-native-unix-common-4.1.118.Final.jar;C:/Users/ethan/Downloads/JT Minecraft Files, Mods, and Depencdencies/Prism Launcher/libraries/io/netty/netty-transport/4.1.118.Final/netty-transport-4.1.118.Final.jar;C:/Users/ethan/Downloads/JT Minecraft Files, Mods, and Depencdencies/Prism Launcher/libraries/it/unimi/dsi/fastutil/8.5.15/fastutil-8.5.15.jar;C:/Users/ethan/Downloads/JT Minecraft Files, Mods, and Depencdencies/Prism Launcher/libraries/net/java/dev/jna/jna-platform/5.15.0/jna-platform-5.15.0.jar;C:/Users/ethan/Downloads/JT Minecraft Files, Mods, and Depencdencies/Prism Launcher/libraries/net/java/dev/jna/jna/5.15.0/jna-5.15.0.jar;C:/Users/ethan/Downloads/JT Minecraft Files, Mods, and Depencdencies/Prism Launcher/libraries/net/minidev/accessors-smart/2.5.1/accessors-smart-2.5.1.jar;C:/Users/ethan/Downloads/JT Minecraft Files, Mods, and Depencdencies/Prism Launcher/libraries/net/minidev/json-smart/2.5.1/json-smart-2.5.1.jar;C:/Users/ethan/Downloads/JT Minecraft Files, Mods, and Depencdencies/Prism Launcher/libraries/net/sf/jopt-simple/jopt-simple/5.0.4/jopt-simple-5.0.4.jar;C:/Users/ethan/Downloads/JT Minecraft Files, Mods, and Depencdencies/Prism Launcher/libraries/org/apache/commons/commons-compress/1.27.1/commons-compress-1.27.1.jar;C:/Users/ethan/Downloads/JT Minecraft Files, Mods, and Depencdencies/Prism Launcher/libraries/org/apache/commons/commons-lang3/3.17.0/commons-lang3-3.17.0.jar;C:/Users/ethan/Downloads/JT Minecraft Files, Mods, and Depencdencies/Prism Launcher/libraries/org/apache/httpcomponents/httpclient/4.5.14/httpclient-4.5.14.jar;C:/Users/ethan/Downloads/JT Minecraft Files, Mods, and Depencdencies/Prism Launcher/libraries/org/apache/httpcomponents/httpcore/4.4.16/httpcore-4.4.16.jar;C:/Users/ethan/Downloads/JT Minecraft Files, Mods, and Depencdencies/Prism Launcher/libraries/org/apache/logging/log4j/log4j-api/2.24.1/log4j-api-2.24.1.jar;C:/Users/ethan/Downloads/JT Minecraft Files, Mods, and Depencdencies/Prism Launcher/libraries/org/apache/logging/log4j/log4j-core/2.24.1/log4j-core-2.24.1.jar;C:/Users/ethan/Downloads/JT Minecraft Files, Mods, and Depencdencies/Prism Launcher/libraries/org/apache/logging/log4j/log4j-slf4j2-impl/2.24.1/log4j-slf4j2-impl-2.24.1.jar;C:/Users/ethan/Downloads/JT Minecraft Files, Mods, and Depencdencies/Prism Launcher/libraries/org/jcraft/jorbis/0.0.17/jorbis-0.0.17.jar;C:/Users/ethan/Downloads/JT Minecraft Files, Mods, and Depencdencies/Prism Launcher/libraries/org/joml/joml/1.10.8/joml-1.10.8.jar;C:/Users/ethan/Downloads/JT Minecraft Files, Mods, and Depencdencies/Prism Launcher/libraries/org/lz4/lz4-java/1.8.0/lz4-java-1.8.0.jar;C:/Users/ethan/Downloads/JT Minecraft Files, Mods, and Depencdencies/Prism Launcher/libraries/org/ow2/asm/asm/9.6/asm-9.6.jar;C:/Users/ethan/Downloads/JT Minecraft Files, Mods, and Depencdencies/Prism Launcher/libraries/org/slf4j/slf4j-api/2.0.16/slf4j-api-2.0.16.jar;C:/Users/ethan/Downloads/JT Minecraft Files, Mods, and Depencdencies/Prism Launcher/libraries/com/mojang/minecraft/1.21.5/minecraft-1.21.5-client.jar org.prismlauncher.EntryPoint"
+  1360.752 W | beginResetModel called on VersionProxyModel(0x21a880c4940) without calling endResetModel first
+  1360.752 W | beginResetModel called on VersionBasicModel(0x21a873388f0) without calling endResetModel first
+  1360.752 W | beginResetModel called on AllVersionProxyModel(0x21a873381b0) without calling endResetModel first
+  1360.753 W | endResetModel called on VersionProxyModel(0x21a880c4940) without calling beginResetModel first
+  1360.753 W | endResetModel called on VersionBasicModel(0x21a873388f0) without calling beginResetModel first
+  1360.753 W | endResetModel called on AllVersionProxyModel(0x21a873381b0) without calling beginResetModel first
+  1360.771 W | The ftb app setings doesn't exist.
+  1360.777 W | beginResetModel called on VersionProxyModel(0x21a88e46ba0) without calling endResetModel first
+  1360.777 W | beginResetModel called on VersionBasicModel(0x21a8999e220) without calling endResetModel first
+  1360.777 W | beginResetModel called on CheckComboModel(0x21a881e94c0) without calling endResetModel first
+  1360.779 W | endResetModel called on VersionProxyModel(0x21a88e46ba0) without calling beginResetModel first
+  1360.779 W | endResetModel called on VersionBasicModel(0x21a8999e220) without calling beginResetModel first
+  1360.779 W | endResetModel called on CheckComboModel(0x21a881e94c0) without calling beginResetModel first
+  1360.810 W | beginResetModel called on VersionProxyModel(0x21a88c24500) without calling endResetModel first
+  1360.810 W | endResetModel called on VersionProxyModel(0x21a88c24500) without calling beginResetModel first
+  1397.240 D | [launcher.task.net.metacache.http]: Saving metacache with 14 entries
+  1486.794 D | Attempting to create instance from "C:/Users/ethan/Downloads/JT Minecraft Files, Mods, and Depencdencies/Prism Launcher/cache/www.curseforge.com/minecraft/modpacks/optimized-performance/download/6399142"
+  1505.076 W | beginResetModel called on VersionProxyModel(0x21a8998f140) without calling endResetModel first
+  1505.077 W | beginResetModel called on VersionBasicModel(0x21aa6596d00) without calling endResetModel first
+  1505.077 W | beginResetModel called on AllVersionProxyModel(0x21aa6597120) without calling endResetModel first
+  1505.078 W | endResetModel called on VersionProxyModel(0x21a8998f140) without calling beginResetModel first
+  1505.078 W | endResetModel called on VersionBasicModel(0x21aa6596d00) without calling beginResetModel first
+  1505.078 W | endResetModel called on AllVersionProxyModel(0x21aa6597120) without calling beginResetModel first
+  1505.089 W | The ftb app setings doesn't exist.
+  1505.092 W | beginResetModel called on VersionProxyModel(0x21a87102960) without calling endResetModel first
+  1505.092 W | beginResetModel called on VersionBasicModel(0x21aa658d680) without calling endResetModel first
+  1505.092 W | beginResetModel called on CheckComboModel(0x21a86d8b9e0) without calling endResetModel first
+  1505.094 W | endResetModel called on VersionProxyModel(0x21a87102960) without calling beginResetModel first
+  1505.094 W | endResetModel called on VersionBasicModel(0x21aa658d680) without calling beginResetModel first
+  1505.094 W | endResetModel called on CheckComboModel(0x21a86d8b9e0) without calling beginResetModel first
+  1505.113 W | beginResetModel called on VersionProxyModel(0x21a866ba9c0) without calling endResetModel first
+  1505.113 W | endResetModel called on VersionProxyModel(0x21a866ba9c0) without calling beginResetModel first
+  1513.804 D | Pack Extra Info QMap() QMap()
+  1515.682 D | Attempting to create instance from "C:/Users/ethan/Downloads/Optimized Performance - MC 1.21.5 - 1.3.zip"
+  1515.682 D | Attempting to determine instance type
+  1515.683 D | Flame: true
+  1515.686 D | Extracting subdir "" from "C:/Users/ethan/Downloads/Optimized Performance - MC 1.21.5 - 1.3.zip" to "C:/Users/ethan/Downloads/JT Minecraft Files, Mods, and Depencdencies/Prism Launcher/instances/.tmp/b61971"
+  1515.687 D | Extracted file "manifest.json" to "C:/Users/ethan/Downloads/JT Minecraft Files, Mods, and Depencdencies/Prism Launcher/instances/.tmp/b61971/manifest.json"
+  1515.688 D | Extracted file "modlist.html" to "C:/Users/ethan/Downloads/JT Minecraft Files, Mods, and Depencdencies/Prism Launcher/instances/.tmp/b61971/modlist.html"
+  1515.690 D | Extracted file "badoptimizations.txt" to "C:/Users/ethan/Downloads/JT Minecraft Files, Mods, and Depencdencies/Prism Launcher/instances/.tmp/b61971/overrides/config/badoptimizations.txt"
+  1515.691 D | Extracted file "balm-client.toml" to "C:/Users/ethan/Downloads/JT Minecraft Files, Mods, and Depencdencies/Prism Launcher/instances/.tmp/b61971/overrides/config/balm-client.toml"
+  1515.693 D | Extracted file "balm-common.toml" to "C:/Users/ethan/Downloads/JT Minecraft Files, Mods, and Depencdencies/Prism Launcher/instances/.tmp/b61971/overrides/config/balm-common.toml"
+  1515.695 D | Extracted file "defaultoptions-common.toml" to "C:/Users/ethan/Downloads/JT Minecraft Files, Mods, and Depencdencies/Prism Launcher/instances/.tmp/b61971/overrides/config/defaultoptions-common.toml"
+  1515.696 D | Extracted file "dynamic_fps.json" to "C:/Users/ethan/Downloads/JT Minecraft Files, Mods, and Depencdencies/Prism Launcher/instances/.tmp/b61971/overrides/config/dynamic_fps.json"
+  1515.699 D | Extracted file "entityculling.json" to "C:/Users/ethan/Downloads/JT Minecraft Files, Mods, and Depencdencies/Prism Launcher/instances/.tmp/b61971/overrides/config/entityculling.json"
+  1515.700 D | Extracted file "fastquit.toml" to "C:/Users/ethan/Downloads/JT Minecraft Files, Mods, and Depencdencies/Prism Launcher/instances/.tmp/b61971/overrides/config/fastquit.toml"
+  1515.700 W | setGeometry: Unable to set geometry 720x216+840+680 (frame: 742x272+829+635) on QWidgetWindow/"ProgressDialogWindow" on "LQ144P1JX01". Resulting geometry: 720x306+840+590 (frame: 742x362+829+545) margins: 11, 45, 11, 11 minimum size: 480x144 MINMAXINFO(maxSize=POINT(x=0, y=0), maxpos=POINT(x=0, y=0), maxtrack=POINT(x=0, y=0), mintrack=POINT(x=742, y=272)))
+  1515.702 D | Extracted file "ferritecore.mixin.properties" to "C:/Users/ethan/Downloads/JT Minecraft Files, Mods, and Depencdencies/Prism Launcher/instances/.tmp/b61971/overrides/config/ferritecore.mixin.properties"
+  1515.703 D | Extracted file "immediatelyfast.json" to "C:/Users/ethan/Downloads/JT Minecraft Files, Mods, and Depencdencies/Prism Launcher/instances/.tmp/b61971/overrides/config/immediatelyfast.json"
+  1515.704 D | Extracted file "iris-excluded.json" to "C:/Users/ethan/Downloads/JT Minecraft Files, Mods, and Depencdencies/Prism Launcher/instances/.tmp/b61971/overrides/config/iris-excluded.json"
+  1515.705 D | Extracted file "iris.properties" to "C:/Users/ethan/Downloads/JT Minecraft Files, Mods, and Depencdencies/Prism Launcher/instances/.tmp/b61971/overrides/config/iris.properties"
+  1515.706 D | Extracted file "languagereload.json" to "C:/Users/ethan/Downloads/JT Minecraft Files, Mods, and Depencdencies/Prism Launcher/instances/.tmp/b61971/overrides/config/languagereload.json"
+  1515.707 D | Extracted file "letmedespawn.json" to "C:/Users/ethan/Downloads/JT Minecraft Files, Mods, and Depencdencies/Prism Launcher/instances/.tmp/b61971/overrides/config/letmedespawn.json"
+  1515.710 D | Extracted file "lithium.properties" to "C:/Users/ethan/Downloads/JT Minecraft Files, Mods, and Depencdencies/Prism Launcher/instances/.tmp/b61971/overrides/config/lithium.properties"
+  1515.712 D | Extracted file "moreculling.toml" to "C:/Users/ethan/Downloads/JT Minecraft Files, Mods, and Depencdencies/Prism Launcher/instances/.tmp/b61971/overrides/config/moreculling.toml"
+  1515.713 D | Extracted file "MouseTweaks.cfg" to "C:/Users/ethan/Downloads/JT Minecraft Files, Mods, and Depencdencies/Prism Launcher/instances/.tmp/b61971/overrides/config/MouseTweaks.cfg"
+  1515.714 D | Extracted file "sodium-fingerprint.json" to "C:/Users/ethan/Downloads/JT Minecraft Files, Mods, and Depencdencies/Prism Launcher/instances/.tmp/b61971/overrides/config/sodium-fingerprint.json"
+  1515.717 D | Extracted file "sodium-mixins.properties" to "C:/Users/ethan/Downloads/JT Minecraft Files, Mods, and Depencdencies/Prism Launcher/instances/.tmp/b61971/overrides/config/sodium-mixins.properties"
+  1515.718 D | Extracted file "sodium-options.json" to "C:/Users/ethan/Downloads/JT Minecraft Files, Mods, and Depencdencies/Prism Launcher/instances/.tmp/b61971/overrides/config/sodium-options.json"
+  1515.722 D | Extracted file "keybindings.txt" to "C:/Users/ethan/Downloads/JT Minecraft Files, Mods, and Depencdencies/Prism Launcher/instances/.tmp/b61971/overrides/config/defaultoptions/keybindings.txt"
+  1515.723 D | Extracted file "options.txt" to "C:/Users/ethan/Downloads/JT Minecraft Files, Mods, and Depencdencies/Prism Launcher/instances/.tmp/b61971/overrides/config/defaultoptions/options.txt"
+  1515.724 D | Extracted file "indigo-renderer.properties" to "C:/Users/ethan/Downloads/JT Minecraft Files, Mods, and Depencdencies/Prism Launcher/instances/.tmp/b61971/overrides/config/fabric/indigo-renderer.properties"
+  1515.727 D | Extracted file "config.yml" to "C:/Users/ethan/Downloads/JT Minecraft Files, Mods, and Depencdencies/Prism Launcher/instances/.tmp/b61971/overrides/config/servercore/config.yml"
+  1515.731 D | Extracted file "optimizations.yml" to "C:/Users/ethan/Downloads/JT Minecraft Files, Mods, and Depencdencies/Prism Launcher/instances/.tmp/b61971/overrides/config/servercore/optimizations.yml"
+  1515.765 D | Fixing permissions for extracted pack files...
+  1516.086 D | Resolve slug progress 0 1
+  1516.090 D | [launcher.task.net.upload]: "{20be9a9e-8226-435d-8503-c3f39729b1b3}" Running  "https://api.curseforge.com/v1/mods/files"
+  1516.100 D | Resolve slug progress 0 1
+  1516.100 D | Resolve slug progress 577 577
+  1516.219 D | Resolve slug progress 0 1
+  1516.220 D | Resolve slug progress 55361 -1
+  1516.244 D | Resolve slug progress 0 1
+  1516.244 D | Resolve slug progress 58569 58569
+  1516.246 D | Resolve slug progress 0 1
+  1516.246 D | Resolve slug progress 0 0
+  1516.246 D | [launcher.task.net.upload]: "{20be9a9e-8226-435d-8503-c3f39729b1b3}" Request succeeded: "https://api.curseforge.com/v1/mods/files"
+  1516.246 D | Resolve slug progress 1 1
+  1516.274 D | Resolve slug progress 0 1
+  1516.276 D | [launcher.task.net.upload]: "{4da00602-8470-466d-bfac-66e12b18e6ed}" Running  "https://api.modrinth.com/v2/version_files"
+  1516.285 D | Resolve slug progress 0 1
+  1516.285 D | Resolve slug progress 154 154
+  1516.486 D | Resolve slug progress 0 1
+  1516.487 D | Resolve slug progress 2205 -1
+  1516.560 D | Resolve slug progress 0 1
+  1516.561 D | Resolve slug progress 2205 2205
+  1516.563 D | Resolve slug progress 0 1
+  1516.564 D | Resolve slug progress 0 0
+  1516.564 D | [launcher.task.net.upload]: "{4da00602-8470-466d-bfac-66e12b18e6ed}" Request succeeded: "https://api.modrinth.com/v2/version_files"
+  1516.564 D | Resolve slug progress 1 1
+  1516.570 D | Found alternative on modrinth  "entityculling-fabric-1.7.4-mc1.21.5.jar"
+  1516.572 D | Found alternative on modrinth  "servercore-fabric-1.5.10+1.21.5.jar"
+  1516.574 D | Resolve slug progress 0 1
+  1516.577 D | [launcher.task.net.upload]: "{a1e9bab3-a5b4-4cae-b690-736f691dfd5c}" Running  "https://api.curseforge.com/v1/mods"
+  1516.591 D | Resolve slug progress 0 1
+  1516.591 D | Resolve slug progress 547 547
+  1516.713 D | Resolve slug progress 0 1
+  1516.714 D | Resolve slug progress 48281 -1
+  1516.784 D | [launcher.task.net.metacache.http]: Saving metacache with 14 entries
+  1516.796 D | Resolve slug progress 0 1
+  1516.797 D | Resolve slug progress 535519 535519
+  1516.799 D | Resolve slug progress 0 1
+  1516.800 D | Resolve slug progress 0 0
+  1516.800 D | [launcher.task.net.upload]: "{a1e9bab3-a5b4-4cae-b690-736f691dfd5c}" Request succeeded: "https://api.curseforge.com/v1/mods"
+  1516.800 D | Resolve slug progress 1 1
+  1516.851 D | Will download "https://edge.forgecdn.net/files/5746/976/fast-ip-ping-v1.0.5-mc1.21.1-fabric.jar" to "C:/Users/ethan/Downloads/JT Minecraft Files, Mods, and Depencdencies/Prism Launcher/instances/.tmp/b61971/minecraft/mods/fast-ip-ping-v1.0.5-mc1.21.1-fabric.jar"
+  1516.852 D | Will download "https://edge.forgecdn.net/files/5856/191/MouseTweaks-fabric-mc1.21.3-2.27.jar" to "C:/Users/ethan/Downloads/JT Minecraft Files, Mods, and Depencdencies/Prism Launcher/instances/.tmp/b61971/minecraft/mods/MouseTweaks-fabric-mc1.21.3-2.27.jar"
+  1516.853 D | Will download "https://edge.forgecdn.net/files/5961/453/BadOptimizations-2.2.1-1.21.2-21.4.jar" to "C:/Users/ethan/Downloads/JT Minecraft Files, Mods, and Depencdencies/Prism Launcher/instances/.tmp/b61971/minecraft/mods/BadOptimizations-2.2.1-1.21.2-21.4.jar"
+  1516.854 D | Will download "https://edge.forgecdn.net/files/6091/19/reeses-sodium-options-fabric-1.8.3%2bmc1.21.4.jar" to "C:/Users/ethan/Downloads/JT Minecraft Files, Mods, and Depencdencies/Prism Launcher/instances/.tmp/b61971/minecraft/mods/reeses-sodium-options-fabric-1.8.3+mc1.21.4.jar"
+  1516.855 D | Will download "https://edge.forgecdn.net/files/6101/74/MakeUp-UltraFast-9.1c.zip" to "C:/Users/ethan/Downloads/JT Minecraft Files, Mods, and Depencdencies/Prism Launcher/instances/.tmp/b61971/minecraft/mods/MakeUp-UltraFast-9.1c.zip"
+  1516.855 D | Will download "https://edge.forgecdn.net/files/6178/917/fastquit-3.0.0%2b1.21.4.jar" to "C:/Users/ethan/Downloads/JT Minecraft Files, Mods, and Depencdencies/Prism Launcher/instances/.tmp/b61971/minecraft/mods/fastquit-3.0.0+1.21.4.jar"
+  1516.857 D | Will download "https://edge.forgecdn.net/files/6347/454/dynamic-fps-3.9.2%2bminecraft-1.21.5-fabric.jar" to "C:/Users/ethan/Downloads/JT Minecraft Files, Mods, and Depencdencies/Prism Launcher/instances/.tmp/b61971/minecraft/mods/dynamic-fps-3.9.2+minecraft-1.21.5-fabric.jar"
+  1516.858 D | Will download "https://edge.forgecdn.net/files/6347/624/defaultoptions-fabric-1.21.5-21.5.1.jar" to "C:/Users/ethan/Downloads/JT Minecraft Files, Mods, and Depencdencies/Prism Launcher/instances/.tmp/b61971/minecraft/mods/defaultoptions-fabric-1.21.5-21.5.1.jar"
+  1516.860 D | Will download "https://edge.forgecdn.net/files/6347/631/netherportalfix-fabric-1.21.5-21.5.1.jar" to "C:/Users/ethan/Downloads/JT Minecraft Files, Mods, and Depencdencies/Prism Launcher/instances/.tmp/b61971/minecraft/mods/netherportalfix-fabric-1.21.5-21.5.1.jar"
+  1516.861 D | Will download "https://edge.forgecdn.net/files/6348/652/language-reload-1.7.3%2b1.21.5.jar" to "C:/Users/ethan/Downloads/JT Minecraft Files, Mods, and Depencdencies/Prism Launcher/instances/.tmp/b61971/minecraft/mods/language-reload-1.7.3+1.21.5.jar"
+  1516.862 D | Will download "https://edge.forgecdn.net/files/6349/137/moreculling-fabric-1.21.5-1.3.0.jar" to "C:/Users/ethan/Downloads/JT Minecraft Files, Mods, and Depencdencies/Prism Launcher/instances/.tmp/b61971/minecraft/mods/moreculling-fabric-1.21.5-1.3.0.jar"
+  1516.864 D | Will download "https://edge.forgecdn.net/files/6350/704/alternate-current-mc1.21.5-1.9.0.jar" to "C:/Users/ethan/Downloads/JT Minecraft Files, Mods, and Depencdencies/Prism Launcher/instances/.tmp/b61971/minecraft/mods/alternate-current-mc1.21.5-1.9.0.jar"
+  1516.865 D | Will download "https://edge.forgecdn.net/files/6351/756/cloth-config-18.0.145-fabric.jar" to "C:/Users/ethan/Downloads/JT Minecraft Files, Mods, and Depencdencies/Prism Launcher/instances/.tmp/b61971/minecraft/mods/cloth-config-18.0.145-fabric.jar"
+  1516.866 D | Will download "https://edge.forgecdn.net/files/6353/301/spark-1.10.128-fabric.jar" to "C:/Users/ethan/Downloads/JT Minecraft Files, Mods, and Depencdencies/Prism Launcher/instances/.tmp/b61971/minecraft/mods/spark-1.10.128-fabric.jar"
+  1516.867 D | Will download "https://cdn.modrinth.com/data/NNAgCjsB/versions/29GV7fju/entityculling-fabric-1.7.4-mc1.21.5.jar" to "C:/Users/ethan/Downloads/JT Minecraft Files, Mods, and Depencdencies/Prism Launcher/instances/.tmp/b61971/minecraft/mods/entityculling-fabric-1.7.4-mc1.21.5.jar"
+  1516.868 D | Will download "https://edge.forgecdn.net/files/6364/768/krypton-0.2.9.jar" to "C:/Users/ethan/Downloads/JT Minecraft Files, Mods, and Depencdencies/Prism Launcher/instances/.tmp/b61971/minecraft/mods/krypton-0.2.9.jar"
+  1516.869 D | Will download "https://edge.forgecdn.net/files/6365/997/ferritecore-8.0.0-fabric.jar" to "C:/Users/ethan/Downloads/JT Minecraft Files, Mods, and Depencdencies/Prism Launcher/instances/.tmp/b61971/minecraft/mods/ferritecore-8.0.0-fabric.jar"
+  1516.871 D | Will download "https://edge.forgecdn.net/files/6366/685/ImmediatelyFast-Fabric-1.9.1%2b1.21.5.jar" to "C:/Users/ethan/Downloads/JT Minecraft Files, Mods, and Depencdencies/Prism Launcher/instances/.tmp/b61971/minecraft/mods/ImmediatelyFast-Fabric-1.9.1+1.21.5.jar"
+  1516.872 D | Will download "https://edge.forgecdn.net/files/6368/575/Clumps-fabric-1.21.5-23.0.0.1.jar" to "C:/Users/ethan/Downloads/JT Minecraft Files, Mods, and Depencdencies/Prism Launcher/instances/.tmp/b61971/minecraft/mods/Clumps-fabric-1.21.5-23.0.0.1.jar"
+  1516.873 D | Will download "https://edge.forgecdn.net/files/6368/686/Controlling-fabric-1.21.5-23.0.1.jar" to "C:/Users/ethan/Downloads/JT Minecraft Files, Mods, and Depencdencies/Prism Launcher/instances/.tmp/b61971/minecraft/mods/Controlling-fabric-1.21.5-23.0.1.jar"
+  1516.874 D | Will download "https://edge.forgecdn.net/files/6369/436/iris-fabric-1.8.11%2bmc1.21.5.jar" to "C:/Users/ethan/Downloads/JT Minecraft Files, Mods, and Depencdencies/Prism Launcher/instances/.tmp/b61971/minecraft/mods/iris-fabric-1.8.11+mc1.21.5.jar"
+  1516.876 D | Will download "https://edge.forgecdn.net/files/6371/404/balm-fabric-1.21.5-21.5.9.jar" to "C:/Users/ethan/Downloads/JT Minecraft Files, Mods, and Depencdencies/Prism Launcher/instances/.tmp/b61971/minecraft/mods/balm-fabric-1.21.5-21.5.9.jar"
+  1516.877 D | Will download "https://edge.forgecdn.net/files/6372/215/Searchables-fabric-1.21.5-1.0.2.jar" to "C:/Users/ethan/Downloads/JT Minecraft Files, Mods, and Depencdencies/Prism Launcher/instances/.tmp/b61971/minecraft/mods/Searchables-fabric-1.21.5-1.0.2.jar"
+  1516.879 D | Will download "https://edge.forgecdn.net/files/6374/443/Almanac-1.21.5-fabric-1.4.5.jar" to "C:/Users/ethan/Downloads/JT Minecraft Files, Mods, and Depencdencies/Prism Launcher/instances/.tmp/b61971/minecraft/mods/Almanac-1.21.5-fabric-1.4.5.jar"
+  1516.880 D | Will download "https://edge.forgecdn.net/files/6374/456/letmedespawn-1.21.5-fabric-1.5.1.jar" to "C:/Users/ethan/Downloads/JT Minecraft Files, Mods, and Depencdencies/Prism Launcher/instances/.tmp/b61971/minecraft/mods/letmedespawn-1.21.5-fabric-1.5.1.jar"
+  1516.881 D | Will download "https://edge.forgecdn.net/files/6382/664/sodium-fabric-0.6.13%2bmc1.21.5.jar" to "C:/Users/ethan/Downloads/JT Minecraft Files, Mods, and Depencdencies/Prism Launcher/instances/.tmp/b61971/minecraft/mods/sodium-fabric-0.6.13+mc1.21.5.jar"
+  1516.883 D | Will download "https://edge.forgecdn.net/files/6384/903/fabric-api-0.119.9%2b1.21.5.jar" to "C:/Users/ethan/Downloads/JT Minecraft Files, Mods, and Depencdencies/Prism Launcher/instances/.tmp/b61971/minecraft/mods/fabric-api-0.119.9+1.21.5.jar"
+  1516.884 D | Will download "https://cdn.modrinth.com/data/4WWQxlQP/versions/VK0kd4wj/servercore-fabric-1.5.10%2B1.21.5.jar" to "C:/Users/ethan/Downloads/JT Minecraft Files, Mods, and Depencdencies/Prism Launcher/instances/.tmp/b61971/minecraft/mods/servercore-fabric-1.5.10+1.21.5.jar"
+  1516.886 D | Will download "https://edge.forgecdn.net/files/6392/213/lithium-fabric-0.16.1%2bmc1.21.5.jar" to "C:/Users/ethan/Downloads/JT Minecraft Files, Mods, and Depencdencies/Prism Launcher/instances/.tmp/b61971/minecraft/mods/lithium-fabric-0.16.1+mc1.21.5.jar"
+  1518.898 D | Validating whether resources stored as .zip are in the right place
+  1518.898 D | Checking "MakeUp-UltraFast-9.1c.zip" ...
+  1518.914 W | Resource pack at "C:/Users/ethan/Downloads/JT Minecraft Files, Mods, and Depencdencies/Prism Launcher/instances/.tmp/b61971/minecraft/mods/MakeUp-UltraFast-9.1c.zip" does not have a valid pack.mcmeta
+  1518.931 W | Data pack at "C:/Users/ethan/Downloads/JT Minecraft Files, Mods, and Depencdencies/Prism Launcher/instances/.tmp/b61971/minecraft/mods/MakeUp-UltraFast-9.1c.zip" does not have a valid pack.mcmeta
+  1518.986 D | "MakeUp-UltraFast-9.1c.zip" is a shader pack
+  1518.986 D | Target folder of "MakeUp-UltraFast-9.1c.zip" is incorrect, it belongs in "shaderpacks"
+  1518.986 D | Moving "C:/Users/ethan/Downloads/JT Minecraft Files, Mods, and Depencdencies/Prism Launcher/instances/.tmp/b61971/minecraft/mods/MakeUp-UltraFast-9.1c.zip" to "C:/Users/ethan/Downloads/JT Minecraft Files, Mods, and Depencdencies/Prism Launcher/instances/.tmp/b61971/minecraft/shaderpacks/MakeUp-UltraFast-9.1c.zip"
+  1519.542 D | "Optimized Performance - MC 1.21.5 - 1.3" | Component list save performed now
+  1519.556 D | Discovering instances in "C:/Users/ethan/Downloads/JT Minecraft Files, Mods, and Depencdencies/Prism Launcher/instances"
+  1519.557 D | Found instance ID "1.21.5"
+  1519.557 D | Found instance ID "Optimized Performance - MC 1.21.5 - 1.3"
+  1519.557 D | Should keep and soft-reload "1.21.5"
+  1519.557 D | Will load group list now.
+  1519.557 D | Group list loaded.
+  1519.557 D | Loaded instance  "Optimized Performance - MC 1.21.5 - 1.3"  from  "C:/Users/ethan/Downloads/JT Minecraft Files, Mods, and Depencdencies/Prism Launcher/instances/Optimized Performance - MC 1.21.5 - 1.3"
+  1519.559 D | [launcher.instance.profile.resolve]: Loading components
+  1519.559 D | "Optimized Performance - MC 1.21.5 - 1.3" | Component list save is scheduled
+  1519.561 D | [launcher.instance.profile.resolve]: "Optimized Performance - MC 1.21.5 - 1.3" | Remote loading is being run for "net.fabricmc.fabric-loader"
+  1519.561 D | [launcher.instance.profile]: "Optimized Performance - MC 1.21.5 - 1.3" | Component list update/resolve task failed  Reason: "Some component metadata load tasks failed."
+  1519.579 D | Instance-type specific settings were loaded!
+  1519.597 D | Will save group list now.
+  1519.611 D | Group list saved.
+  1524.560 D | "Optimized Performance - MC 1.21.5 - 1.3" | Component list save performed now
+  1549.912 D | [launcher.task.net.metacache.http]: Saving metacache with 14 entries

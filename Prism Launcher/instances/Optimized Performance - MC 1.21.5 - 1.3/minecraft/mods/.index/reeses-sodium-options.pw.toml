@@ -1,0 +1,16 @@
+filename = 'reeses-sodium-options-fabric-1.8.3+mc1.21.4.jar'
+name = "Reese's Sodium Options"
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1', '1.21.2', '1.21.3', '1.21.4', '1.21.5' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'c72f07a8f139f0420cbce29bd9eb29fb24db427f'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6091019
+project-id = 511319

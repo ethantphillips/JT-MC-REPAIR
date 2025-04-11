@@ -1,0 +1,16 @@
+filename = 'MouseTweaks-fabric-mc1.21.3-2.27.jar'
+name = 'Mouse Tweaks'
+side = 'client'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21.3', '1.21.4', '1.21.5' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '8267df3b46152116a252d085da525fb84400a95a'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5856191
+project-id = 60089

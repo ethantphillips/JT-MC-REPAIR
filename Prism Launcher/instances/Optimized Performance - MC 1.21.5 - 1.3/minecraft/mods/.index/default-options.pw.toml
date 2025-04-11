@@ -1,0 +1,16 @@
+filename = 'defaultoptions-fabric-1.21.5-21.5.1.jar'
+name = 'Default Options'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21.5' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '622c2b518122c64586569c70feeba13ed255d51d'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6347624
+project-id = 232131

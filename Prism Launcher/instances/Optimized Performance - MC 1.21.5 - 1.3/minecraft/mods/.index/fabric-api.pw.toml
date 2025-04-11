@@ -1,0 +1,16 @@
+filename = 'fabric-api-0.119.9+1.21.5.jar'
+name = 'Fabric API'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21.5' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '540ec3056b0a6bbe32b5eb92673908150737a9a3'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6384903
+project-id = 306612
