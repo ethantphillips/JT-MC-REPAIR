@@ -4,7 +4,7 @@ setlocal enabledelayedexpansion
 :: ===== CONFIG =====
 set "LICENSE_FILE=%APPDATA%\McBypass\license.key"
 set "LICENSE_URL=https://gitunblock.netlify.app/ethantphillips/mclcheck/main/.mcbypass_licenses.ini"
-set "PRISM_LAUNCHER=%APPDATA%\McBypass\PrismLauncher\PrismLauncher.exe"
+set "PRISM_LAUNCHER=%APPDATA%\McBypass\PrismLauncher\Prism Launcher.exe"
 
 :: ===== Step 1: Read stored license =====
 if not exist "!LICENSE_FILE!" (
@@ -16,8 +16,8 @@ if not exist "!LICENSE_FILE!" (
 set /p LICENSE_KEY=<"!LICENSE_FILE!"
 echo Using saved license key: !LICENSE_KEY!
 
-:: ===== Step 2: Check Internet =====
-ping google.com -n 1 >nul 2>&1
+:: ===== Step 2: Check Internet by pinging a reliable server =====
+nslookup google.com >nul 2>&1
 if errorlevel 1 (
     echo Offline. Launching Prism...
     goto :LAUNCH
