@@ -3,8 +3,8 @@ setlocal enabledelayedexpansion
 
 :: ===== CONFIG =====
 set "LICENSE_FILE=%APPDATA%\McBypass\license.key"
-set "LICENSE_URL=https://raw.githubusercontent.com/ethantphillips/mclcheck/main/.mcbypass_licenses.ini"
-set "PRISM_LAUNCHER=%LOCALAPPDATA%\PrismLauncher\PrismLauncher.exe"
+set "LICENSE_URL=gitunblock.netlify.app/ethantphillips/mclcheck/main/.mcbypass_licenses.ini"
+set "PRISM_LAUNCHER=%APPDATA%\McBypass\PrismLauncher\PrismLauncher.exe"
 
 :: ===== Step 1: Read stored license =====
 if not exist "!LICENSE_FILE!" (
