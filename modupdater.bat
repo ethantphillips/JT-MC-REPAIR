@@ -27,7 +27,7 @@ set "EXTRACT_DIR=%TEMP_DIR%\extracted"
 rd /s /q "%EXTRACT_DIR%" >nul 2>&1
 mkdir "%EXTRACT_DIR%"
 
-powershell -Command "Expand-Archive -LiteralPath '%ZIP_FILE%' -DestinationPath '%EXTRACT_DIR%' -Force"
+tar -xf "%ZIP_FILE%" -C "%EXTRACT_DIR%" --strip-components=1
 
 :: === STEP 4: Sync instances without duplication ===
 echo [INFO] Syncing new instances...
