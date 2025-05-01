@@ -22,10 +22,11 @@ if errorlevel 1 (
     echo Offline. Launching Prism...
     goto :LAUNCH
 )
-
+goto :CHECK_BACKEND
+echo Online.
 :: ===== Step 3: Check Backend Ready with Retries =====
-set "RETRIES=10"
 :CHECK_BACKEND
+set "RETRIES=10"
 set /a RETRIES-=1
 set "BACKEND_READY_FILE=%TEMP%\backend_ready_check.txt"
 curl -s -o "!BACKEND_READY_FILE!" "https://gitunblock.netlify.app/ethantphillips/mclcheck/main/.mcbypass_licenses.ini"
